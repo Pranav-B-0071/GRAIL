@@ -1,0 +1,21 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# GraphRAG runtime artifacts
+cache/
+logs/
+metrics/
+output/lancedb/
+
+# Keep the index tables themselves - the deployed app needs them:
+# output/*.parquet is intentionally NOT ignored.
+
+# Benchmark runs
+eval/results/
