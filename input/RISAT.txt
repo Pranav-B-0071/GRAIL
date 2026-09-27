@@ -1,0 +1,60 @@
+# RISAT
+Source: https://en.wikipedia.org/wiki/RISAT
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+RISAT (Radar Imaging Satellite)  is a series of Indian radar imaging reconnaissance satellites built by the Indian Space Research Organization (ISRO). They provide all-weather surveillance using synthetic aperture radars (SAR).
+The RISAT series are the first all-weather Earth observation satellites from ISRO. Previous Indian observation satellites relied primarily on optical and spectral sensors which were hampered by cloud cover.
+After the 26 November 2008, 2008 Mumbai attacks, the launch plan was modified to launch RISAT-2 before RISAT-1, since the indigenous C-band SAR to be used for RISAT-1 was not ready. RISAT-2 used an Israel Aerospace Industries (IAI) X-band SAR sensor similar to the one employed on TecSAR.
+
+
+== Satellites ==
+
+
+=== RISAT 2 ===
+
+RISAT-2 was the last of the RISAT series to reach orbit. It was launched successfully on 20 April 2009 at 0015 hours GMT by a PSLV rocket. The 300-kg satellite was built by ISRO using a X-band SAR manufactured by IAI.
+This satellite was fast tracked in the aftermath of the 2008 Mumbai attacks. The satellite will be used for border surveillance, to deter insurgent infiltration and for anti-terrorist operations. It is likely to be placed under the Aerospace Command of the Indian Air Force.
+No details of the technical specifications of RISAT-2 have been published. However, it is likely to have a spatial resolution of about a metre or so. Ship detection algorithms for radar satellites of this class are well-known and available. The satellite also has applications in the area of disaster management and agriculture-related activities.
+
+
+=== RISAT 1 ===
+
+RISAT-1 was an indigenously developed radar imaging satellite successfully launched by a PSLV-XL rocket on 26 April 2012 from Satish Dhawan Space Centre, Shriharikota. RISAT-1 was postponed in order to prioritize the building and launch of RISAT-2.
+The features of RISAT-1 include: 
+
+160 x 4 Mbit/s data handling system
+50 Newton-meter-second reaction wheels
+SAR antenna deployment mechanism
+Phased array antenna with dual polarisation
+
+
+=== RISAT 2B ===
+
+RISAT-2B is an indigenously developed Synthetic Aperture Radar (SAR) imaging satellite operating in X Band with 3.6 m radial rib antenna. It was launched by PSLV C46 (Core Alone) on  22 May 2019 at 0000 (UTC) from First Launch Pad of SDSC (SHAR).
+The satellite has the capability to operate in different modes including Very High Resolution RADAR imaging modes of 1m × 0.5m resolution and 0.5m × 0.3m resolution. RISAT-2B is placed in an inclined orbit for better revisit rates over area of interest. Being Radar Imaging satellite, it can image during day / night / all weather conditions. The Satellite will be utilized for high resolution spot imaging of locations of interest.
+
+Mass: 615 kg
+Orbit: 557 km (circular) at inclination of 37°
+Mission life: 5 years
+
+
+=== RISAT 2BR1 ===
+
+RISAT-2BR1 is an Indian radar reconnaissance satellite that is part of India's RISAT programme and the fourth satellite in the series. It is built by Indian Space Research Organisation (ISRO). It was launched on 11 December 2019 at 3:25 PM IST on board PSLV rocket from Satish Dhawan Space Centre.
+The satellite has resolution of 0.35 meters by which two objects separated by distance of 0.35 metres can be distinctly identified. The mission duration is planned to be 5 years. It is the 50th launch of Polar Satellite Launch Vehicle and 75th launch from Satish Dhawan Space Centre.
+
+Mass: 628 kg
+Orbit: 560 km
+Mission life : 5 years
+
+
+== List of RISAT Satellite ==
+
+
+== See also ==
+Cartosat
+Indian Space Research Organisation
+NISAR
+
+
+== References ==

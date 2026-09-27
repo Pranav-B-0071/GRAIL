@@ -1,0 +1,51 @@
+# GSAT
+Source: https://en.wikipedia.org/wiki/GSAT
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+The GSAT (Geosynchronous Satellite) series is a family of Indian communications satellites, indigenously developed and operated by the ISRO. The prorgamme was initiated in the early 2000s to create indigenous, multi-purpose, geostationary spacecraft capable of supporting India's growing needs in telecommunications, broadcasting, broadband, emergency management, reconnaissance and navigation. The programme was supported by the development of Geosynchronous Satellite Launch Vehicle.
+GSAT satellites include a total of 168 transponders (out of which 95 are leased out to provide services to broadcasters), and operate primarily in C, Extended C, Ku, Ka, S and L bands, with payload configurations tailored for civilian, commercial, and strategic needs. The development of both GSAT satellites and the GSLV launch system represents India's transition from dependence on foreign-built INSAT spacecraft to self-reliant national communications capability. As of 21 November 2025, 27 GSAT satellites manufactured by ISRO have been launched, out of which 20 are in service and six more being planned.
+
+
+== History ==
+The GSAT programme began as part of ISRO's efforts to supplement the aging Indian National Satellite System (INSAT) fleet and reduce reliance on leased transponders from foreign satellites. Early missions of GSAT-1 (2001) and GSAT-2 (2003) were launched to test indigenous bus designs, power systems and communication payloads.
+Between 2004 and 2020, ISRO launched numerous GSAT satellites with varied roles including direct-to-home broadcasting support, tele-education and tele-medicine, high-throughput broadband, navigation augmentation for aviation, dedicated military communication.
+Recent missions focus on high-bandwidth Ka band systems, secure strategic communication and navigation augmentation under GPS-aided GEO augmented navigation (GAGAN). Several satellites use advanced I-2K, I-3K and 1-6K satellite bus platforms designed for long life and high payload capacity.
+
+
+== Launched ==
+The following is a list of launched GSAT satellites and their status. As of 2025, there were 27 GSAT launches with 20 of them being operational.
+
+
+== Planned ==
+The following is a list of six planned GSAT launches.
+
+
+== Statistics ==
+As of 23 November 2025
+
+
+=== Launches by year ===
+
+
+=== Launches by rocket ===
+
+
+=== Launches by country ===
+
+
+== See also ==
+
+List of Indian satellites
+Indian National Satellite System (INSAT)
+Indian Remote Sensing Programme (IRSP)
+Indian Regional Navigation Satellite System (IRNSS)
+
+
+== References ==
+Notes
+
+References
+
+
+== External links ==
+ISRO GeoStationary Satellites

@@ -1,0 +1,148 @@
+# Aditya-L1
+Source: https://en.wikipedia.org/wiki/Aditya-L1
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+Aditya-L1  (Sanskrit: Āditya IPA: [aːd̪it̪jɐ] 'Sun', L1 'Lagrange Point 1') is a coronagraphy spacecraft for studying the solar atmosphere, designed and developed by ISRO and various other Indian Space Research Institutes. It is orbiting at about 1.5 million km from Earth in a halo orbit around the Lagrange point 1 (L1) between the Earth and the Sun, where it will study the solar atmosphere, solar magnetic storms, and their impact on the environment around the Earth.
+It is the first Indian mission dedicated to observing the Sun. Nigar Shaji is the project's director. Aditya-L1 was launched aboard the PSLV-C57 at 11:50 IST on 2 September 2023. It successfully achieved its intended orbit nearly an hour later, and separated from its fourth stage at 12:57 IST. It was inserted at the L1 point on 6 January 2024, at 4:17 pm IST.
+
+
+== Mission objectives ==
+The main objectives of Aditya-L1 are:
+
+To observe the dynamics of the solar chromosphere and corona:
+To study chromospheric and coronal heating, the physics of partially ionised plasma, of coronal mass ejections (CMEs) and their origins, of the coronal magnetic field and heat transfer mechanisms, and of flare exchanges.
+To observe the physical particle environment around its position.
+To determine the sequence of processes in multiple layers below the corona that lead to solar eruptions.
+To study space weather, and the origin, composition and dynamics of solar wind.
+To observe the in-situ particle and plasma environment providing data for the study of particle dynamics from the Sun.
+To study the factors affecting coronal and coronal loop plasma, such as temperature, velocity, and density.
+To analyse magnetic field topology and magnetic field measurements in the solar corona.
+
+
+== Mission history ==
+
+
+=== Development ===
+
+The mission was conceptualised in January 2008 by the Advisory Committee for Space Sciences (ADCOS). It was initially envisaged as a small, 400 kg (880 lb) satellite in a Low Earth Orbit (800 km) with a coronagraph to study the solar corona. An experimental budget of ₹3 crore was allocated for the financial year 2016–2017. The scope of the mission has since been expanded and it became a comprehensive solar and space environment observatory to be placed at Lagrange point 1 (L1), hence the mission was renamed as Aditya-L1. As of July 2019, the mission has an allocated cost of ₹378 crores, excluding launch costs. Aditya-L1 will provide observations of the Sun's photosphere, chromosphere and corona. Its scientific payloads must be placed outside the interference from the Earth's magnetic field and hence could not have been useful in the low Earth orbit, as proposed in the original mission concept back in 2008.
+One of the major unsolved problems in the field of solar physics is coronal heating. The upper atmosphere of the Sun has a temperature of 2,000,000 K (2,000,000 °C; 3,600,000 °F), whereas the lower atmosphere is just 6,000 K (5,730 °C; 10,340 °F). In addition, it is not understood exactly how the Sun's radiation affects the dynamics of the Earth's atmosphere on a shorter as well as a longer time scale. The mission will obtain near-simultaneous images of the different layers of the Sun's atmosphere, which will reveal the ways in which energy is channeled and transferred from one layer to another. Thus, the mission will enable a comprehensive understanding of the dynamical processes of the Sun and address some of the outstanding problems in solar physics and heliophysics.
+
+
+=== Launch ===
+
+Aditya L1 was mounted on a PSLV-XL carrier rocket with flight designation C57. The 44 meters tall rocket considered of four alternating solid fueled and liquid-fueled stages, along with 6 small solid rocket boosters. The combined rocket weighed in at about 321 tonnes. On 2 September 2023, at 11:50 IST, the Polar Satellite Launch Vehicle (PSLV-C57) accomplished a successful launch of the Aditya-L1It was inserted into a highly elliptical orbit around the earth with a perigee of 235 km and an apogee of 19500 km, inclined 19.2° to the earth. The spacecraft was launched from the Second Launch Pad of the Satish Dhawan Space Centre (SDSC) located in Sriharikota at a launch Azimuth off 104°. Aditya-L1, following a flight duration of 63 minutes and 20 seconds, achieved a successful injection into an elliptical orbit around the Earth at 12:54 IST.
+The launch was applauded by Dr Jitendra Singh Rana , India's Union minister for Science and Technology.
+
+
+=== Orbit-raising burns ===
+
+First orbit-raising burn
+On 3 September 2023, the Aditya-L1 performed its first Earth-bound maneuver, raising its orbit to a 245 km (152 mi) into 22,459 km (13,955 mi) orbit.
+
+Second orbit-raising burn
+On 5 September 2023, Aditya-L1 performed its second Earth-bound maneuver, raising its orbit to a 282 km (175 mi) into 40,225 km (24,995 mi) orbit.
+
+Third orbit-raising burn
+On 10 September 2023, Aditya-L1 performed its third Earth-bound maneuver, raising its orbit to a 296 km (184 mi) into 71,767 km (44,594 mi) orbit.
+
+Fourth orbit-raising burn
+On 15 September 2023, Aditya-L1 performed its fourth Earth-bound maneuver, raising its original orbit to a 256 km (159 mi) into 121,973 km (75,791 mi) orbit. This was the last of such maneuvers, being directly followed by the Trans-Lagrangian 1 Injection, which took place on 19 September.
+
+Trans-Lagrangian 1 Injection
+On 19 September 2023, Aditya-L1 performed its last maneuver around Earth to escape its orbit and headed towards the Lagrange 1 point, taking at least four months to further reach its destination, 1.5 million kilometers away.
+On 30 September 2023, Aditya-L1 had escaped the Earth's sphere of influence and was on the way to the Lagrange point 1. During this journey a week before Orbital Insertion, the SUIT instrument captured an X-class solare flare and a CME on 31 December 2023. This was the first observations of a solar flare using near-UV light.
+
+Trajectory correction maneuver
+On 6 October 2023, Aditya-L1 performed a Trajectory Correction maneuvre (TCM1). It was needed to correct the trajectory evaluated after tracking the Trans-Lagrangian Point 1 Insertion (TL1I) maneuver performed on 19 September 2023.
+
+
+=== Orbital Insertion ===
+Aditya-L1 underwent a series of four Earth-bound orbital maneuvres prior to its injection into a transfer orbit towards the Lagrange point (L1). It reached its designated orbit at the L1 point, which is about 1,500,000 km (930,000 mi) from Earth 126 days after its launch on 6 January 2024 at 4:17 IST. A small controlled firing of the spacecraft's liquid rocket engine was conducted to gently nudge it into an orbit around the L1 point.
+Aditya-L1 completed its first halo orbit around the L1 point on 2 July 2024. It takes it approximately 178 days to complete each orbit. It underwent two station-keeping maneuvers on 22 February and 7 June, and later one on 2 July. The European Space Operations Centre (ESOC), operated by the European Space Agency (ESA), supported the mission all through this phase. Its orbit is around 1% of the distance between the earth and the sun. The spacecraft is planned to remain in its present halo orbit for the entire mission duration while being maintained at a stationkeeping Δv of 0.2–4 m/s per year.
+
+
+== Payloads ==
+
+The instruments of Aditya-L1 are tuned to observe the solar atmosphere, mainly the chromosphere and corona. In-situ instruments will observe the local environment at the L1 point. There are seven payloads on board, with four for remote sensing of the Sun and three for in-situ observation. The payloads have been developed by different laboratories in India with the close collaborations of various ISRO centers. The 1,500 kg (3,300 lb) satellite carries seven scentific payloads, including instruments to measure and monitor coronal heating, solar wind acceleration, coronal magnetometry, the origin of near-UV solar radiation (which drives Earth's upper atmospheric dynamics and global climate), the coupling of the solar photosphere to the chromosphere and corona, and in-situ characterisations of the space environment around Earth by measuring energetic particle fluxes and magnetic fields of the solar wind, and solar magnetic storms.
+
+
+=== Visible Emission Line Coronagraph (VELC) ===
+The Visible Emission Line Coronagraph (VELC) is a  primary payload aboard on the Aditya spacecraft. The VELC is an internally occulted reflective coronagraph designed to fulfil specific observation needs. The instrument allows for high spatial resolution imaging 1.25-2.5 arcseconds of the Sun's corona, simultaneous observations in three modes (Imaging, Spectroscopy and Spectro-polarimetry), and even utilizes artificial intelligence to aid in the detection of coronal mass ejections (CMEs). The instrument was developed by Indian Institute of Astrophysics, Bengaluru.
+
+
+=== Solar Ultraviolet Imaging Telescope (SUIT) ===
+The SUIT is an ultraviolet imaging telescope designed to study the solar spectral radiation in the ultraviolet range.It operates within the wavelength range of 200–400 nm, using both narrowband and broadband filters. The SUIT utilises 11 different filters. The filters have been selected carefully to ensure coverage of the lower (photosphere) and middle (chromosphere) atmosphere of the Sun, the first approach of its kind in such observations. The SUIT provides near-simultaneous coverage of the solar atmosphere, from lower photosphere to the upper chromosphere. The instrument was developed by Inter University Centre for Astronomy & Astrophysics, Pune, in collaboration with ISRO.
+
+
+=== Solar Low Energy X-ray Spectrometer (SoLEXS) ===
+The SoLEXS is an X-ray spectrometer designed to continuously measure the solar soft X-ray flux (2 keV-22 keV) from the Sun-Earth Lagrangian point L1. These measurements can be used to better understand the properties of the Sun's corona, in particular, why the temperature of the corona is so high. The SoLEXS will observe solar flares, and in conjunction with data provided by the VELC, will help study the complex thermal properties of the Sun's outer layers. The instrument was developed by U. R. Rao Satellite Centre, Bengaluru.
+
+
+=== High Energy L-1 Orbiting X-ray Spectrometer (HEL1OS) ===
+Developed by the Space Astronomy Group, URSC, the HEL1OS (pronounced helios) is an x-ray spectrometer designed to study solar flares in the x-ray spectrum, in particular, energy bands of 10-150 Kev (kilo-electron volts). Using a twin-pair of Cadmium Telluride (CdTe) and Cadmium Zinc Telluride (CZT) detectors, the instrument aims to study the acceleration and movement of electrons in the Sun's corona, as well as to study the cut-off energy between thermal and non-thermal solar emissions.
+
+
+=== Aditya Solar Wind Particle Experiment (ASPEX) ===
+The ASPEX is an instrument composed of low and high energy particle spectrometers, designed to conduct measurements of the Sun's solar wind particles. Solar Wind Ion Spectrometer (SWIS), the low energy spectrometer, contains two analysers, each designed to study particles entering the device in different planes. Supra Thermal Energetic Particle Spectrometer (STEPS), the high energy spectrometer, also consists of two parts, STEPS 1 and STEPS 2, both designed to separate protons and alpha particles and measure the integrated flux. The instrument was developed by the Physical Research Laboratory, Ahmedabad.
+
+
+=== Plasma Analyser Package for Aditya (PAPA) ===
+The PAPA is an instrument on board the Aditya-L1 designed to study the temperature, distribution and velocity of the solar winds. The instrument contains two sensors; the Solar Wind Electron Energy Probe (SWEEP) and the Solar Wind lon Composition Analyser (SWICAR). The detectors are used in conjunction to analyse the energy levels of electrons and ions within the solar wind. The instrument was developed by the Space Physics Laboratory of the Vikram Sarabhai Space Centre, Thiruvananthapuram.
+
+
+=== Digital Magnetometers ===
+On board the Aditya-L1 spacecraft are a pair of magnetic sensors on a deployable boom, one positioned in the middle and the other at the tip. The purpose of these sensors is to gather information about the magnitude and direction of the Interplanetary Magnetic Fields (IMF), as well as to study other events such as Coronal Mass Ejections (CME). Data from the magnetic sensors will be used to supplement that of the PAPA and ASPEX sensors.
+
+
+== Mission Timeline ==
+
+
+=== Launch timeline ===
+
+
+== Science phase ==
+Following commissioning and checkout, Adiya L1 began Science observations about three months into the mission.
+
+
+=== 2024 ===
+The PAPA instrument on the spacecraft was operationalised on 12 December 2023, and made its first observation on 10 and 11 February 2024 using the PAPA instrument to observe the Sun from its vantage point–a distance of about 1 million miles (1.5 million kilometers). Post-launch calibration of SUIT has now characterised its filters in detail. In-orbit testing of the transmission, spatial variation, and out-of-band performance confirmed that most filters meet design expectations, with only a few showing slightly higher out-of-band transmission than predicted (still below 1%). Additionally, on 31 December 2023, SUIT observed a plasma blob ejection from the Sun moving at speeds up to 1500 km/s, the highest recorded by the mission thus far.
+On 11 January 2024, upon reaching its orbit, ISRO successfully deployed a 6-meter magnetometer boom aboard the Aditya-L1 in the Halo orbit at the Lagrange Point L1. After the liftoff, the boom had been stowed for 132 days. The in-orbit deployment period that was measured was roughly 9 seconds, which is well within the 8–12 second prediction range. The magnetometer boom will measure the low-intensity interplanetary magnetic field in space using two high-accuracy fluxgate magnetometer sensors that are carried aboard. In order to reduce the impact of the spacecraft's magnetic field on measurements, the sensors are placed 3 and 6 meters away from the craft. Using a dual sensor system also helps to cancel out the spacecraft's magnetic influence and facilitates accurate estimation. Carbon-fiber-reinforced polymers (CFRP) were used in the construction of the boom segments. Through the use of spring-driven hinge mechanisms, the five pieces are joined to enable folding in close proximity to the craft throughout the journey and opening up upon reaching the desired orbit. The hinges lock into place as the mechanism fans out. In the stowed position, two hold-downs firmly secure the boom in place. Information obtained via the telemetry switches validates the release of the hold-down, the initial motion, and the locking of every hinge.
+In conjunction with the Udaipur Solar Observatory and research stations at Thumba, ISRO mobilised all its observation platforms and systems to record the signatures of a Massive Solar Flare in May 2024. Aditya-L1, Chandrayaan-2's orbiter and XPoSat have made observations and observed signatures have been analysed. Aditya-L1 used ASPEX, SOLEX, HEL1OS and its magnetometer instruments to record data. This storm, called "Gannon's Storm" was the strongest solar storm recorded since the beginning of the 21st Century. Using the Magneometers on Aditya L1 and other NASA spacecraft discovered that two distinct CMEs collided in space such that the magnetic field lines inside one of them snapped and rejoined in new ways, a process called magnetic reconnection. This sudden reversal of the magnetic field made the storm's impact much stronger than expected. Using observations of particles and fields measurements from Aditya-L1, and combining it with other ground based measurements as well as the GOES-18 spacecraft, unusual dawn-side magnetic disturbances observed during this storm were most likely caused by a rare type of space current normally confined to auroral regions of the Sun. During very strong storms, when the Earth's magnetosphere becomes highly compressed, such rare auroral current systems ingress into lower solar latitudes, extending much farther towards the mean solar equator.
+Ground based observations from the Gauribidanur radio telescope and IIA astronomers using VELC detected multiple CME-driven shock waves forming at a distance of approximately 130,000 kilometers above the Sun's surface and traveling at nearly 1,700 kilometers per second on 27 May 2024. This is the closest distance from the Sun at which such a shock and its associated radio burst have been unambiguously detected.
+On 16 July 2024, the VELC instrument was used to measure another large Coronal Mass ejection from the Sun. It also studied an accompanying solar flare and the motion of solar particles within the Sun.
+
+
+=== 2025 ===
+Marking its first year of science observation, ISRO released the maiden set of the scientific data from the Aditya L1 to the global scientific community on 6 January 2025, at the ISRO Headquarters in Bengaluru. ISRO presented the second set on 14 February 2025. On 22 February 2024, Aditya L1 captured the first-ever image of a X6.3-class solar flare ‘kernel’ occurring in the photosphere and the chromosphere. The image was taken alongside operations of SUIT, SoLEXS and HEL1OS instruments in the Near-Ultraviolet band. Further studies of a continuation event in October 2024 decoded the impact of Solar winds with the Earth's Magnectic field and the result of these interactions that affected Geostationary satellites in earth orbit. The study also noted that currents over high latitude regions intensified, potentially heating the Earth's upper atmosphere and causing enhanced atmospheric escape. Scientists from IIA also reported observations of a flareless coronal mass ejection from reading taken by VELC in March 2025.
+Observations from the onboard MAG payload show that during solar transient events in 2024, the interplanetary magnetic field magnitude increased above typical quiet-solar levels, and the spectral slope of turbulence approached a Kolmogorov -5/3 kind of behaviour. To verify changes in spectral behaviour, the data was compared with that from a day when quiet solar winds were present, resulting in a strong contrast. The quiet periods exhibit anisotropic turbulence, whereas the behaviour from the event exhibited quasi-isotropic behaviour, with spectral slopes closely following the Kolmogorov spectrum across all three IMF components. A Workshop was conducted based on these findings in October, with the spacecraft releasing over 20TB of data.
+In 2025, using the data from the VELC instrument, researchers from IIA and NASA created the very first spectroscopic observations of a CME in the visible wavelength range. They also estimated the electron density, energy, mass, temperature and speed of a CME very close to the Sun.
+
+
+=== 2026 ===
+On the second anniversary (6 January 2026) of Aditya-L1's launch, ISRO made an Announcement of Opportunity to solicit proposals for scientific research data from its first AO cycle observations. ISRO and ESA conducted a workshop at IIST in Thiruvanthapuram between 19 and 23 January 2026 presenting data from Aditya-L1, Proba-3 and Solar Orbiter presenting complementary vantage data points from each mission. The 2026 Indian budget also proposed to rebuild the National Large Solar Telescope at a cost of about ₹1,000 crore (US$100 million) by 2030 for it to serve as a complement to solar data from Aditya-L1. Over 27 Terabytes of information have been received from Aditya-L1 by April 2026 and were published. ISRO also made the call for the Second cycle of its AOC to disseminate data from the Aditya-L1 spacecraft. This will allow researchers to use the Instruments on Aditya-L1 to conduct independent research and experiments. 
+Aditya L1 also presented the first comprehensive analysis of photospheric iron fluorescence. The "iron fluorescence" phenomenon was observed during 47 massive X-class solar flares in the from the year 2024. It is caused when a small fraction of the Sun's massive burst of high-energy X-rays during solar flare events fall back on the cooler solar photosphere, causing it to interact with the abundant neutral iron atoms that then absorbs the energy to emit their own  X-ray glow around an energy level of 6.40 keV. The spacecraft used the SoLEXS instrument for this analysis. ISRO released the call for the third observation cycle to scientists for observation time during the third survey phase in July 2026.
+
+
+== Gallery ==
+Some images of the Sun taken from SUIT (Solar Ultraviolet Imaging Telescope) instrument of Aditya-L1 in different wavelengths.
+           
+
+
+== See also ==
+
+Lagrange point – Equilibrium points near two orbiting bodies
+Solar space missions
+Advanced Composition Explorer – NASA satellite of the Explorer program, at SE-L1 from 1997
+Solar Dynamics Observatory – NASA mission, launched in 2010 to GSO
+Solar and Heliospheric Observatory – European space observatory
+Solar Orbiter – European space-based solar observatory
+Parker Solar Probe – NASA probe of the Sun's outer corona
+ISRO – Indian national space and aeronautics agency
+
+
+== References ==
+
+
+== External links ==
+
+ISRO page for Aditya-L1

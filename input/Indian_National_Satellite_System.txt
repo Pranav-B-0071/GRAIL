@@ -1,0 +1,49 @@
+# Indian National Satellite System
+Source: https://en.wikipedia.org/wiki/Indian_National_Satellite_System
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+The Indian National Satellite System or INSAT, is a series of multipurpose geostationary satellites launched by ISRO to satisfy telecommunications, broadcasting, meteorology, and search and rescue operations. Commissioned in 1983, INSAT is the largest domestic communication system in the Indo-Pacific Region and laid the foundation for India's self-reliant space-based communication infrastructure. It is a joint venture of the Department of Space, Department of Telecommunications, India Meteorological Department, All India Radio and Doordarshan. The overall coordination and management of INSAT system rests with the Secretary-level INSAT Coordination Committee.
+INSAT satellites provide transponders in various bands to serve the television and communication needs of India. Some of the satellites also have the Very High Resolution Radiometer (VHRR), CCD cameras for meteorological imaging. The satellites also incorporate transponder(s) for receiving distress alert signals for search and rescue missions in the South Asian and Indian Ocean Region, as ISRO is a member of the Cospas-Sarsat program.
+
+
+== INSAT system ==
+
+The Indian National Satellite (INSAT) system was commissioned with the launch of INSAT-1B in August 1983 (INSAT-1A, the first satellite was launched in April 1982 but could not fulfil the mission). INSAT system ushered in a revolution in India's television and radio broadcasting, telecommunications and meteorological sectors. It enabled the rapid expansion of TV and modern telecommunication facilities to even the remote areas and off-shore islands. Together, the system provides transponders in C, Extended C and Ku bands for a variety of communication services. Some of the INSATs also carry instruments for meteorological observation and data relay for providing meteorological services. KALPANA-1 is an exclusive meteorological satellite. The satellites are monitored and controlled by Master Control Facilities that exist in Hassan and Bhopal.
+
+
+=== INSAT-1 series ===
+The first generation of INSAT satellites, developed with NASA assistance, included INSAT-1A, 1B, 1C, and 1D, with all of them being launched in the 1980s. Their success established India's capability to operate a national communications and weather-monitoring satellite fleet. 1B, launched in 1983, became the first fully operational Indian GEO communications satellite.
+
+
+=== INSAT-2 series ===
+The INSAT-2 series during the 1990s, marked the shift to fully indigenous satellite design. Models included INSAT-2A, 2B, SC, 2D, and 2E, each offering expanded transponder capacity, improved meteorological imaging and enhanced reliability.
+
+
+=== INSAT-3 series ===
+Launched between 2000 and 2003, the INSAT-3 series introduced larger satellites with advanced payloads. 3B was for business communication, 3C for national telecommunication backbone, 3A and 3D for meteorology and disaster warning, and 3E for broadacting [sic?] and data relay.
+
+
+=== INSAT-4 series ===
+The INSAT-4 generation launched between 2005 and 2010 focused on high-power Ku-band DTH broadcasting. 4A was India's first dedicated DTH satellite, 4B and 4CR was for communication and replacement missions, and 4E (also known as GSAT-6) had a large S-band antenna for mobile communications. INSAT-4 satellites were eventually supplemented by the newer GSAT series.
+
+
+=== Transition into GSAT ===
+
+Many communication satellites which were originally conceived under the INSAT umbrella were reclassified as GSAT as ISRO shifted to newer satellite bus platforms of I-2K and I-3K. INSAT continues to focus mainly on meteorology and disaster management, while GSAT handles broadband, telecom, and strategic communication.
+
+
+== List of INSAT satellites ==
+The following is a list of launched INSAT satellites. 
+
+
+== See also ==
+List of Indian satellites
+Indian Remote Sensing Programme (IRSP)
+Indian Regional Navigation Satellite System (IRNSS)
+GSAT
+
+
+== Notes ==
+
+
+== References ==

@@ -1,0 +1,101 @@
+# LVM3
+Source: https://en.wikipedia.org/wiki/LVM3
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+The Launch Vehicle Mark-3 or LVM3 (previously referred as the GSLV Mk III) is a three-stage medium-lift launch vehicle developed by ISRO. Primarily designed to launch communication satellites into geostationary orbit, it is also due to launch crewed missions under the Indian Human Spaceflight Programme. LVM3 has a higher payload capacity than its predecessor, GSLV.
+After several delays and a sub-orbital test flight on 18 December 2014, ISRO successfully conducted the first orbital test launch of LVM3 on 5 June 2017 from the Satish Dhawan Space Centre.
+The total development cost of the project was ₹2,962.78 crore (equivalent to ₹45 billion or US$460 million in 2023). In June 2018, the Union Cabinet approved ₹4,338 crore (equivalent to ₹58 billion or US$600 million in 2023) to build 10 LVM3 rockets over a five-year period.
+The LVM3 has launched CARE, India's space capsule recovery experiment module, Chandrayaan-2 and Chandrayaan-3, India's second and third lunar missions, and will be used to carry Gaganyaan, the first crewed mission under Indian Human Spaceflight Programme. In March 2022, UK-based global communication satellite provider OneWeb entered into an agreement with ISRO to launch OneWeb satellites aboard the LVM3 along with the PSLV, due to the launch services from Roscosmos being cut off, caused by the Russian invasion of Ukraine.  The first launch took place on 22 October 2022, injecting 36 satellites into low Earth orbit.
+
+
+== History ==
+ISRO initially planned two launcher families, the Polar Satellite Launch Vehicle for low Earth orbit and polar launches and the larger Geosynchronous Satellite Launch Vehicle for payloads to geostationary transfer orbit (GTO). The vehicle was reconceptualized as a more powerful launcher as the ISRO mandate changed. This increase in size allowed the launch of heavier communication and multipurpose satellites, human-rating to launch crewed missions, and future interplanetary exploration. Development of the LVM3 began in the early 2000s, with the first launch planned for 2009–2010. The unsuccessful launch of GSLV D3, due to failure in the cryogenic upper stage, delayed the LVM3 development program. The LVM3, although named "GSLV Mark III" during development, features different systems and components from the GSLV Mark II.
+To manufacture the LVM3 in public–private partnership (PPP) mode, ISRO and NewSpace India Limited (NSIL) have started working on the project. To investigate possible PPP partnership opportunities for LVM3 production through the Indian private sector, NSIL has hired IIFCL Projects Limited (IPL). On Friday 10 May 2024, NSIL released a request for qualification (RFQ), inviting responses from private partners for the large-scale production of LVM-3. Plans call for a 14-year partnership between ISRO and the chosen commercial entity. The private partner is expected to be able to produce four to six LVM3 rockets annually over the following twelve years, with the first two years serving as the "development phase" for the transfer of technology and know-how.
+
+
+== Vehicle Description ==
+
+
+=== Specifications ===
+
+
+=== S200 solid boosters ===
+
+The first stage consists of two S200 solid motors, also known as Large Solid Boosters (LSB) attached to the core stage. Each booster is 3.2 metres (10 ft) wide, 25 metres (82 ft) long, and carries 207 tonnes (456,000 lb) of hydroxyl-terminated polybutadiene (HTPB) based propellant in three segments with casings made out of M250 maraging steel. The head-end segment contains 27,100 kg of propellant, the middle segment contains 97,380 kg and the nozzle-end segment is loaded with 82,210 kg of propellants. It is the largest solid-fuel booster after the SLS SRBs, the Space Shuttle SRBs and the Ariane 5 SRBs. 
+The flex nozzles can be vectored up to ±8° by electro-hydraulic actuators with a capacity of 294 kilonewtons (66,000 lbf) using hydro-pneumatic pistons operating in blow-down mode by high pressure oil and nitrogen. They are used for vehicle control during the initial ascent phase. The hydraulic fluid for operating these actuators is stored in an externally mounted cylindrical tank at the base of each booster. These boosters burn for 130 seconds and produce an average thrust of 3,578.2 kilonewtons (804,400 lbf) and a peak thrust of 5,150 kilonewtons (1,160,000 lbf) each. The simultaneous separation from core stage occurs at T+149 seconds in a normal flight and is initiated using pyrotechnic separation devices and six small solid-fueled jettison motors located in the nose and aft segments of the boosters.
+The first static fire test of the S200 solid rocket booster, ST-01, was conducted on 24 January 2010. The booster fired for 130 seconds and had nominal performance throughout the burn. It generated a peak thrust of about 4,900 kN (1,100,000 lbf). A second static fire test, ST-02, was conducted on 4 September 2011. The booster fired for 140 seconds and again had nominal performance through the test. A third test, ST-03, was conducted on 14 June 2015 to validate the changes from the sub-orbital test flight data.
+
+
+=== L110 liquid core stage ===
+
+The second stage, designated L110, is a liquid-fueled stage that is 21 metres (69 ft) tall and 4 metres (13 ft) wide, and contains 110 metric tons (240,000 lb) of unsymmetrical dimethylhydrazine (UDMH) and nitrogen tetroxide (N2O4). It is powered by two Vikas 2 engines, each generating 766 kilonewtons (172,000 lbf) thrust, giving a total thrust of 1,532 kilonewtons (344,000 lbf). The L110 is the first clustered liquid-fueled engine designed in India. The Vikas engines uses regenerative cooling, providing improved weight and specific impulse compared to earlier Indian rockets. Each Vikas engine can be individually gimbaled to control vehicle pitch, yaw and roll. The L110 core stage ignites 114 seconds after liftoff and burns for 203 seconds. Since the L110 stage is air-lit, its engines need shielding during flight from the exhaust of the operating S200 boosters and reverse flow of gases by a 'nozzle closure system' which is jettisoned prior to L110 ignition.
+ISRO conducted the first static test of the L110 core stage at its Liquid Propulsion Systems Centre (LPSC) test facility at Mahendragiri, Tamil Nadu on 5 March 2010. The test was planned to last 200 seconds, but was terminated at 150 seconds after a leakage in a control system was detected. A second static fire test for the full duration was conducted on 8 September 2010.
+
+
+=== C25 cryogenic upper stage ===
+
+The cryogenic upper stage, designated C25, is 4 metres (13 ft) in diameter and 13.5 metres (44 ft) long, and contains 28 metric tons (62,000 lb) of propellant LOX and LH2, pressurized by helium stored in submerged bottles. It is powered by a single CE-20 engine, producing 200 kN (45,000 lbf) of thrust. CE-20 is the first cryogenic engine developed by India which uses a gas generator, as compared to the staged combustion engines used in GSLV. In LVM3-M3 mission, a new white coloured C25 stage was introduced which has more environmental-friendly manufacturing processes, better insulation properties and the use of lightweight materials. The stage also houses the flight computers and Redundant Strap Down Inertial Navigation System of the launch vehicle in its equipment bay. The digital control system of the launcher uses closed-loop guidance throughout the flight to ensure accurate injections of satellites into the target orbit. Communications system of the launch vehicle consists of an S-Band system for telemetry downlink and a C-Band transponder that allows for radar tracking and preliminary orbit determination are also mounted on the C25. The communications link is also used for range safety and flight termination that uses a dedicated system that is located on all stages of the vehicle and features separate avionics.
+The first static fire test of the C25 cryogenic stage was conducted on 25 January 2017 at the ISRO Propulsion Complex (IPRC) facility at Mahendragiri, Tamil Nadu. The stage fired for a duration of 50 seconds and performed nominally. A second static fire test for the full in-flight duration of 640 seconds was completed on 17 February 2017. This test demonstrated consistency in engine performance along with its sub-systems, including the thrust chamber, gas generator, turbopumps and control components for the full duration.
+
+
+=== Payload fairing ===
+
+The CFRP composite payload fairing has a diameter of 5 metres (16 ft), a height of 10.75 metres (35.3 ft) and a payload volume of 110 cubic metres (3,900 cu ft). It is manufactured by Coimbatore-based LMW Advanced Technology Centre. After the first flight of the rocket with CARE module, the payload fairing was modified to an ogive shape, and the S200 booster nose cones and inter-tank structure were redesigned to have better aerodynamic performance. The vehicle features a large fairing with a five-meter diameter to provide sufficient space even to large satellites and spacecraft. Separation of fairing in a nominal flight scenario occurs at approximately T+253 seconds and is accomplished by a linear piston cylinder separation and jettisoning mechanism (zip cord) spanning the full length of PLF which is pyrotechnically initiated. The gas pressure generated by the zip cord expands a rubber below that pushes the piston and cylinder apart, pushing the payload fairing halves laterally away from the launcher. The fairing is made of aluminum alloy featuring acoustic absorption blankets.
+
+
+== Variants and upgrades ==
+
+
+=== Human-rating certification ===
+
+The Human rated LVM3 would have the following configuration with Two HS200 strapon boosters, evolved from the S200 boosters with additional safety changes, an uprated L110 Stage with a newly developed C32 stage which is an streched variant of the C25 stage along with modifications to support a Crew Escape System.
+While the LVM3 is being human rated for Gaganyaan project, the rocket was always designed with potential human spaceflight applications in consideration. The maximum acceleration during ascent phase of flight was limited to 4 Gs for crew comfort and a 5-metre (16 ft) diameter payload fairing was used to be able to accommodate large modules like space station segments.
+Furthermore, a number of changes to make safety-critical subsystems reliable are planned for lower operating margins, redundancy, stringent qualification requirements, revaluation, and strengthening of components. Avionics improvement will incorporate a Quad-redundant Navigation and Guidance Computer (NGC), Dual chain Telemetry & Telecommand Processor (TTCP) and an Integrated Health Monitoring System (LVHM). The launch vehicle will have the High Thrust Vikas engines (HTVE)  of L110 core stage operating at a chamber pressure of 58.5 bar instead of 62 bar. Human rated S200 (HS200) boosters will operate at chamber pressure of 55.5 bar instead of 58.8 bar and its segment joints will have three O-rings each. Electro mechanical actuators and digital stage controllers will be employed in HS200, L110 and C25 stages.
+
+
+=== Mating with semi-cryogenic stage ===
+
+The L110 core stage in the LVM3 is planned to be replaced by the SC120, a kerolox stage powered by the SE-2000 engine to increase its payload capacity to 7.5 metric tons (17,000 lb) to geostationary transfer orbit (GTO). The SCE-200 uses kerosene instead of unsymmetrical dimethylhydrazine (UDMH) as fuel and has a thrust of around 200 tonnes. Four such engines can be clustered in a rocket without strap-on boosters to deliver up to 10 tonnes (22,000 lb) to GTO. The first propellant tank for the SC120 was delivered in October 2021 by HAL. Most hardware had been developed and realised for the stage, with flight qualification trails to be held later.
+The SC120 powered version of LVM3 will not be used for the crewed mission of the Gaganyaan spacecraft. In September 2019, in an interview by AstrotalkUK, S. Somanath, director of Vikram Sarabhai Space Centre claimed that the SE-2000 engine was ready to begin testing. As per an agreement between India and Ukraine signed in 2005, Ukraine was expected to test components of the SE-2000 engine, so an upgraded version of the LVM3 was not expected before 2022. The SE-2000 engine is reported to be based on the Ukrainian RD-810, which is itself proposed for use on the Mayak family of launch vehicles.In 2025, Russia has also offered to integrate the RD-191M engine on future variants of the LVM3. This procurement is expected to replace the L110 stage on the LVM3 rocket prior to the induction of the SCE-200 in the future iterations.
+
+
+=== Induction of upgraded cryogenic stage ===
+The C25 stage with nearly 25 t (55,000 lb) propellant load will be replaced by the C32, with a higher propellant load of 32 t (71,000 lb). The C32 stage will be re-startable and with uprated CE-20 engine. Total mass of avionics will be brought down by using miniaturised components. On 30 November 2020, Hindustan Aeronautics Limited delivered an aluminium alloy-based cryogenic tank to ISRO. The tank has a capacity of 5,755 kg (12,688 lb) of fuel, and a volume of 89 m3 (3,100 cu ft).
+On 9 November 2022, CE-20 cryogenic engine of upper stage was tested with an uprated thrust regime of 21.8 tonnes in November 2022. Along a suitable stage with additional propellant loading this could increase payload capacity of LVM3 to GTO by up to 450 kg (990 lb). On 23 December 2022, CE-20 engine E9 was hot tested for a duration of 650 seconds. For the first 40 seconds of the test, the engine was operated at 20.2 tonne thrust level, after this engine was operated at 20 tonne off-nominal zones and then for 435 seconds it was operated at 22.2 tonne thrust level. With this test, the 'E9' engine has been qualified for induction in flight. It is hoped that after introduction of this stage, GTO payload capacity can be raised to 6 tonnes.
+On 10 March 2026, ISRO tested a sea level hot test of the CE-20 engine at 22 tonnes using nozzle protection system and multi-element igniter. Test was successful and lasted 165 seconds. Previous tests were conducted at 19 tonnes. This engine in particular has undergone record number of hot tests (20) successfully. It has also demonstrated several key technologies at 20 & 22 tonne thrust, including the Gaganyaan mission. Another CE-20 test was also done on engine E18 for use in the upgraded C32 stage in July 2026.
+On 9 September 2026, ISRO conducted flight acceptance hot test of cryogenic engine for the seventh launch M7. The CE20 engine was tested at 22 tonne thrust level.  
+
+
+== Launch statistics ==
+
+LVM3 has accumulated a total of 9 launches, as of 24 December 2025. Of these, all 9 have been successful, giving it a cumulative success rate of 100%.
+
+Decade-wise summary of LVM3 launches
+
+
+== Gallery ==
+
+
+== See also ==
+
+PSLV
+GSLV
+SSLV
+Gaganyaan
+Launch vehicles of ISRO
+List of Indian satellites
+List of LVM3 launches
+Comparison of orbital launch systems
+Comparison of orbital launchers families
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Bharat-Rakshak GSLV-III information
+New Scientist article including GSLV-III diagram

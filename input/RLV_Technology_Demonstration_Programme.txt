@@ -1,0 +1,94 @@
+# RLV Technology Demonstration Programme
+Source: https://en.wikipedia.org/wiki/RLV_Technology_Demonstration_Programme
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+Reusable Launch Vehicle–Technology Demonstration Programme is a series of technology demonstration missions that has been conceived by ISRO as a first step towards realising a Two Stage To Orbit (TSTO) reusable launch vehicle, in which the second stage is a spaceplane.
+For this purpose, a winged reusable launch vehicle technology demonstrator (RLV-TD) has been configured. The RLV-TD acted as a flying test bed to evaluate various technologies like powered cruise flight, hypersonic flight, and autonomous landing using air-breathing propulsion. Application of these technologies would bring down the launch cost by a factor of 10. This project has no connection with the Avatar spaceplane concept by India's Defence Research and Development Organisation.
+
+
+== History ==
+In 2006  the Indian Space Research Organisation (ISRO) performed a series of ground tests to demonstrate stable supersonic combustion for nearly 7 seconds with an inlet Mach number of 6.
+In March 2010, ISRO conducted the flight testing of its new sounding rocket: Advanced Technology Vehicle (ATV-D01), weighing 3 tonnes at lift-off, a diameter of 0.56 m (1 ft 10 in), and a length of ~10 m (33 ft). It carried a passive scramjet engine combustor module as a test-bed for demonstration of air-breathing propulsion technology.
+In January 2012, ISRO announced that a scaled prototype, called Reusable Launch Vehicle-Technology Demonstrator (RLV-TD), was approved to be built and tested. The aerodynamics characterization on the RLV-TD prototype was done by the National Aerospace Laboratories in India. The RLV-TD is in the last stages of construction by a Hyderabad-based private company called CIM Technologies. The fixed landing gear for the RLV-TD was supplied by Timetooth Technologies. The full-scale RLV is expected to use retractable landing gear. 
+By May 2015, engineers at the Vikram Sarabhai Space Centre (VSSC) in Thumba Equatorial Rocket Launching Station were installing thermal tiles on the outer surface of the RLV-TD to protect it against the intense heat during atmospheric reentry. This prototype weighs around 1.5 tonnes and flew to an altitude of 65 km mounted on top of an expendable solid booster HS9.
+On 28 August 2016, ISRO successfully tested its scramjet engine on second developmental flight of its Advanced Technology Vehicle ATV-D02 from the Satish Dhawan Space Centre for 28 August 2016. The scramjet engine will be integrated to the RLV at a later stage of development.
+In February 2024, IIT Kanpur built and evaluated the Hypervelocity Expansion Tunnel Test Facility, referred to as S2, in the Department of Aerospace Engineering's Hypersonic Experimental Aerodynamics Laboratory (HEAL). Scramjet flights and extreme hypersonic conditions such as atmospheric entry can be replicated at the S2 facility. It is anticipated that the facility will support RLV Technology Demonstration Programme. By 2026, ISRO had finalised the mission architecture and engine development, with wind tunnel testing done with NAL. Reusable Thermal insulation was reportedly under development for the project.
+
+
+== Pushpak (RLV-TD) ==
+
+Pushpak (Sanskrit, ISO: Puṣpaka, lit. 'Little Flower', Namesake: Pushpaka Vimana) (also known as RLV-TD or Reusable Launch Vehicle Technology Demonstrator) is India's first uncrewed flying testbed developed for the ISRO's RLV Technology Demonstration Programme started in 2012. It is a scaled down prototype of an eventual two-stage-to-orbit (TSTO) reusable launch vehicle.
+In January 2012, the design of ISRO's reusable launch vehicle was approved by the National Review Committee and clearance was granted to build the vehicle. The vehicle was named 'Reusable Launch Vehicle-Technology Demonstrator' (RLV-TD). ISRO aims to bring down the cost of payload delivery to low Earth orbit by 80% from existing $20,000/kg to $4,000/kg.
+The RLV-TD was developed with an objective to test various aspects such as hypersonic flight, autoland, powered cruise flight, hypersonic flight using the air-breathing engine propulsion and Hypersonic Experiment.
+A series of four RLV-TD test flights have been planned by ISRO:
+
+HEX (Hypersonic Flight Experiment) - Completed
+LEX (Landing Experiment) - Completed
+REX (Return Flight Experiment), later renamed to OREX (Orbital Return Flight Experiment) - Planned
+SPEX (Scramjet Propulsion Experiment) - Planned
+A team of 750 engineers at the Vikram Sarabhai Space Centre, National Aerospace Laboratories, and Indian Institute of Science worked on the design and development of RLV-TD and the associated rocket. RLV-TD underwent 120 hours of wind tunnel, 5,000 hours of computational fluid dynamics and 1,100 runs of flight simulation tests. RLV-TD has mass of 1.75 tonnes, wingspan of 3.6 meters and overall length of 6.5 meters (excluding the rocket). The vehicle had 600 heat-resistant tiles on its undercarriage and it features delta wings and angled tail fins. Total cost of the project was ₹95 crore (equivalent to ₹137 crore or US$14.2 million in 2023). Future planned developments include testing an air-breathing propulsion system, which aims to capitalise on the oxygen in the atmosphere instead of liquefied oxygen while in flight. The aerodynamic characterization research was conducted at the National Aerospace Laboratories' 1.2m Trisonic Wind Tunnel Facility.
+
+
+=== Air Breathing Propulsion Project ===
+In January 2006, ISRO completed the design, development and tests of scramjet (supersonic ramjet) at its Vikram Sarabhai Space Centre in Thiruvananthapuram. During the ground tests, stable supersonic combustion with an inlet Mach number 6 was demonstrated for 7 seconds.
+On 3 March 2010, ISRO successfully conducted the flight test of its new sounding rocket ATV-D01 from Satish Dhawan Space Centre in Sriharikota. ATV-D01 weighed 3 tonnes at lift-off and was the heaviest sounding rocket ever developed by ISRO at the time. It was mounted with a passive Scramjet engine. The rocket flew for 7 seconds, achieved Mach number 6 + 0.5 and dynamic pressure 80 + 35 kPa.
+On 28 August 2016, ISRO tested scramjet engine with a five-minute flight. At a height of 20 kilometers, the scramjet engine attached to the Advanced Technology Vehicle was fired. It burnt fuel for five seconds, an important milestone in the development of Dual Mode Ramjet (DMR) under Air Breathing Propulsion Project. The scramjet engine weighed 3,277 kg at lift-off. Critical technologies that have been successfully demonstrated include fuel injection systems, air intake mechanisms, air breathing engine igniting at supersonic speed, and holding the flame at supersonic speed. Every aspect of the flight operation followed a pre-programmed sequence. The design and development of a hypersonic engine air intake, a supersonic combustor, materials that can withstand extremely high temperatures, computational tools for simulating hypersonic flow, proper thermal management, and ground testing of the engines are just a few of the technological challenges that ISRO has successfully overcome. 
+On 23 July 2024, ISRO effectively concluded the second experimental flight demonstration of air breathing propulsion technology. Air Breathing Propulsion systems were symmetrically placed on both sides of the Rohini RH-560 sounding rocket used in the experiment. The Air Breathing propulsion systems were ignited successfully and the test performed satisfactorily. 110 parameters were extensively watched during the flight to evaluate the propulsion system's performance.
+
+
+== RLV TD Experiments ==
+
+
+=== Hypersonic Flight Experiment ===
+
+The Reusable Launch Vehicle Hypersonic Flight Experiment or RLV HEX was the first test flight in the RLV Technology Demonstration Programme. HEX was successfully launched on 23 May 2016. RLV-TD consists of a fuselage (body), a nose cap, double delta wings and twin vertical rudders. It has active control surfaces called Elevons and Rudders. Apart from the twin rudders it is similar in shape and operation to a small Space Shuttle Orbiter. TDV uses 600 or so heat resistant silica tiles and Flexible External Insulation, nose-cap is made out Carbon-Carbon composite with SiC coating. The leading edges of twin rudders are Inconel-718, wing leading edges of 15CDV6.
+HEX was the first test flight of a reusable launch vehicle developed by India. The test flight objectives included:
+
+Validating the aerodynamic design characteristics during hypersonic flight
+Characterize induced loads during the hypersonic descent through the atmosphere
+Assess the performance of the carbon fibre used in construction of the nose of the vehicle
+Demonstrate first stage separation sequencing
+The vehicle was tracked during its flight from ground stations at Sriharikota and a shipborne terminal. The total flight duration from launch to splashdown lasted about 773.6 seconds. The unit was not planned to be recovered.  ISRO plans to construct an airstrip greater than 4km long in Sriharikota island in the "near future". Critical technologies such as autonomous navigation, guidance & control, reusable thermal protection system, and descent mission management were validated in this flight.
+
+
+=== Landing Experiment ===
+The Reusable Launch Vehicle Landing Experiment or RLV-LEX was the second test flight in the RLV Technology Demonstration Programme following the Hypersonic Flight Experiment. The demonstration trials will pave the way for the two-stage-to-orbit (TSTO) fully reusable launch vehicle. Furthermore, more test similar to RLV-LEX will be conducted to test other conditions like wind, different failure conditions and other factors to finalise the testing of the vehicle. Three such tests were performed in between April 2023 and June 2024. A drogue chute was used to bring the speed down to 100 km/h and nose wheel brakes were used to bring the vehicle to a stop.
+
+
+==== RLV-LEX-01 ====
+RLV-LEX was successfully conducted on 2 April 2023 at the Chitradurga Aeronautical Test Range. The flight took off at 7:10 AM and was released mid-air at a downrange of 4.6 km. The Vehicle landed at about 7:40 AM
+The test flight objectives included:
+
+Simulating the exact conditions of a Space Re-entry vehicle's landing - high speed, unmanned, autonomous, precise landing from the same return path
+Validating the landing parameters such as the ground relative velocity, the sinking rate of landing gears and precise body rates as might be experienced by an orbital re-entry space vehicle on its return path
+After the successful completion of the mission, S. Somanath, chairman of ISRO, said to the media that they are currently planning to conduct more such landing tests to check the readiness of software and hardware under different conditions. The reported test will include the vehicle being dropped from an altitude of about 4.5 kilometres and at a lateral difference following which the vehicle must automatically guide itself for a landing. The test would be retroactively referred to as RLV-LEX-01.
+
+
+==== RLV-LEX-02 ====
+Another landing experiment was conducted at Chitradurga Aeronautical Test Range on 22 March 2024. The vehicle had to correct both cross-range and down-range deviations before landing autonomously on the runway due to the experiment's more difficult manoeuvres and dispersions. The vehicle used its nosewheel steering system, landing gear brakes, and drogue parachute to help it come to a precise halt on the runway after making the required cross-range modifications. RLV-LEX-02 made use of the same Flight Demonstrator Vehicle as RLV-LEX-01. Liquid Propulsion System Centre (LPSC), ISRO Inertial Systems Unit (IISU), Vikram Sarabhai Space Centre, and the Indian Air Force worked together with the Aeronautical Development Establishment (ADE), Aerial Delivery Research and Development Establishment (ADRDE), and other agencies to complete the mission.
+
+
+==== RLV-LEX-03 ====
+ISRO completed the preparation for the third and last RLV landing experiment, RLV-LEX-03. At the Mission Readiness Review meet on 7 June 2024, S. Unnikrishnan Nair, Director of the Vikram Sarabhai Space Center, certified the mission for the first half of June at the Chitradurga Aeronautical Test Range, subject to weather conditions. In contrast to LEX-02, where the altitude was the same but the lateral distance from the runway was 150 meters, Pushpak will be flown by an IAF Chinook helicopter to a height of 4.5 kilometers and 500 meters to one side of the runway in LEX-03 before being released. The goal of the LEX-03 mission is to investigate methods for lowering the sink rate, or rate of descent, in order to lessen the impact weight. Pushpak will carry an onboard real-time kinematics (RTK) package. The test will also determine how well Pushpak performs in scenarios with a tailwind.The date of the test was shifted to the end of 2nd week of June due to poor weather conditions.  The test was successfully conducted on 23 June from Chitradurga Aeronautical Test Range. Pushpak was released from an Indian Air Force Chinook Helicopter at an altitude of 4.5 km.
+Pushpak automatically carried out cross-range correction maneuvers during the LEX-03 mission, approached the runway, and made a precise horizontal touchdown at the centerline of the runway.  The vehicle's braking parachute was used to slow down to almost 100 km/h after touchdown, and the landing gear brakes were then used to bring the vehicle to a stop and decelerate on the runway. Pushpak uses its nose wheel and rudder steering system to automatically maintain a steady and accurate ground roll along the runway during this ground roll phase.
+The mission replicated high-speed landing conditions, as well as the approach and landing interface, for a vehicle returning from space. Validation of the sophisticated guidance system that addresses both lateral and longitudinal plane error corrections which is necessary for the next Orbital Return Flight Experiment. The test vehicle was equipped with a pseudolite system, inertial sensor, radar altimeter, flush air data system, and NavIC receiver, among other multi-sensor fusion devices. The RLV-LEX-03 demonstrated the robustness and adaptability of flight systems for multiple missions by reusing the winged body and flight systems from the LEX-02 without any modifications.
+
+
+=== Future ===
+Two more experiments are planned by ISRO: OREX (Orbital Return Flight Experiment) and SPEX (Scramjet Propulsion Experiment). The OREX will launch on a GSLV rocket with PS-4 stage instead of its CUS upper stages (due to decreased performance required for a suborbital flight unlike a regular GSLV launch) and Orbital Re-entry vehicle (ORV) in place of its ogive payload fairing and re-enter the earth's atmosphere for a landing to demonstrate the viability of the project. The OREX vehicle will be 1.6 times larger than the Landing Experiment's Pushpak platform. It will have retractable landing gear and a thermal protection system for a safe re-entry into Earth's atmosphere.
+
+
+== Gallery ==
+
+
+== See also ==
+Avatar, an unrelated spaceplane concept by India's DRDO
+Space Rider a planned robotic spaceplane by ESA
+
+
+== References ==
+
+
+== External links ==
+Home page for RLV-TD at ISRO Archived 2016-05-23 at the Wayback Machine
+RLV-TD test flight animation at YouTube

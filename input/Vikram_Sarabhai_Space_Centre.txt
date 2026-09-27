@@ -1,0 +1,56 @@
+# Vikram Sarabhai Space Centre
+Source: https://en.wikipedia.org/wiki/Vikram_Sarabhai_Space_Centre
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+The Vikram Sarabhai Space Centre (VSSC) is a major space research centre of ISRO, focusing on rocket and space vehicles for India's satellite programme. It is located in Thiruvananthapuram, in the Indian state of Kerala.
+The centre had its beginnings as the Thumba Equatorial Rocket Launching Station in 1962. It was renamed in honour of Vikram Sarabhai, often regarded as the father of the Indian space program.  H.G.S. Murthy was appointed as the first director of Thumba Equatorial Rocket Launching Station.
+The Vikram Sarabhai Space Centre is one of the main and largest research and development establishments within ISRO. VSSC is an entirely indigenous facility working on the development of sounding rockets, the Rohini and Menaka launchers, and SLV, ASLV, PSLV, GSLV and LVM3 families of launch vehicles.
+
+
+== History ==
+After incorporation of the Indian National Committee for Space Research (INCOSPAR) in 1962, its first act was the establishment of the Thumba Equatorial Rocket Launching Station at Thumba, in Thiruvananthapuram. Thumba was picked as the launch site for sounding rockets for meteorological and upper atmospheric research due to its location on the geomagnetic equator.  H.G.S. Murthy was appointed as the first director of the Thumba Equatorial Rocket Launching Station.
+
+21 November 1963 marked India's first venture into space, with the launch of a two-stage Nike Apache sounding rocket from TERLS. The first rockets launched were built in United States.
+The first Indian designed and built rocket, RH-75, made its maiden flight on 20 November 1967. This was the 52nd launch of a sounding rocket from TERLS. It was flown twice again in 1967 and another 12 times in 1968, making a total of 15 RH-75 flights.
+Among the sounding rockets to have flown from TERLS were Arcas-1, Arcas-11, Centaure-1, 11A and 11B, Dragon-1, Dual Hawk, Judy Dart, Menaka-1, Menaka-1Mk 1 and Mk11, Nike Tomahawk, M-100, Petrel, RH-100, RH-125, RH-200 (S), RH-300, variants of RH-560, etc. There have been a total of nearly 2200 sounding rocket launches from TERLS, so far.
+Over the years VSSC has designed, developed and since 1965 started launching a family of sounding rockets under the generic name, Rohini sounding rockets to serve a range of scientific missions. The currently operational Rohini Sounding Rockets are RH-200, RH-300, RH-560 and their different versions. These sounding rockets are launched for carrying out research in areas like meteorology and upper atmospheric processes up to an altitude of about 500 km.
+TERLS was formally dedicated to the United Nations on 2 February 1968, by then Prime Minister of India, Indira Gandhi. Although no direct funding from the UN was involved, scientists from several countries including United States, Russia (former USSR), France, Japan, Germany and UK continue to utilize the TERLS facility for conducting rocket based experiments. Over 1161 USSR meteorological sounding rockets called M-100 were launched from TERLS every week from 1970 until 1993.
+After the sudden demise of Vikram Sarabhai on 30 December 1971, TERLS and associated space establishments at Thiruvananthapuram were renamed as the Vikram Sarabhai Space Centre in his honour.
+In the early 1980s, VSSC was instrumental in the development of India's Satellite Launch Vehicle program, SLV-3. This was followed in the late 1980s with the Augmented Satellite Launch Vehicle, for launching 150 kg satellites into near earth orbits.
+In the 1990s, VSSC contributed to the development of India's workhorse launch vehicle, the Polar Satellite Launch Vehicle. 
+In 2023, the VSSC created FEAST (Finite Element Analysis of Structures), an analysis program that may be used to do Finite Element Analysis (FEA) on a variety of structures, including as buildings, aircraft, satellites, rockets, and so forth. It is now accessible for application in Indian academic institutions and business sectors. It will lessen reliance on pricey, licensed software from overseas companies. It comes in three versions: academic, premium, and professional, and it can run on Linux distributions and Microsoft Windows. In an effort to increase the software's use among undergraduate and graduate students, S. Somanath and S. Unnikrishnan Nair wrote a book that provides insights into the program.   
+
+
+== Facilities ==
+VSSC is a leading centre of ISRO responsible for the design and development of launch vehicle technology. VSSC has a large workforce of about 4500 employees, most of them specialists in frontier disciplines. The Centre pursues active research and development in the fields of aeronautics, avionics, materials, mechanisms, vehicle integration, chemicals, propulsion, stage separation systems, structures, space physics and systems reliability
+In addition to its main campus located at Thumba and Veli, VSSC has integration and checkout facilities located at Valiamala. Facilities for development of reinforced plastics and composites are located at Vattiyoorkavu in Thiruvananthapuram City. Two production lines at the ISRO APEP plant in Aluva produces ammonium perchlorate, a vital ingredient for solid propellant motors. TERLS and the Space Physics Laboratory (SPL) are also within the VSSC campus. SPL focuses on research activities in disciplines such as atmospheric boundary layer physics, numerical atmospheric modeling, atmospheric aerosols, atmospheric chemistry, trace gases, atmospheric dynamics, thermospheric-ionospheric physics, planetary sciences, etc. Recently a new Tri-sonic wind tunnel will also be set up at the facility. A new deop-test facility for the RLV program was also inaugurated at VSSC in 2025.
+
+
+=== Trisonic Wind Tunnel ===
+As part of three space infrastructure projects totaling ₹1,800 crore, Prime Minister Narendra Modi formally inaugurated the Trisonic Wind Tunnel (TWT) at the VSSC on February 27, 2024 for testing the aerodynamic design of rockets to make them more efficient. Following the 1.2-meter TWT at National Aerospace Laboratories in Bengaluru and the Defence Research and Development Organization's Hypersonic Wind Tunnel (HWT) at the Dr APJ Abdul Kalam Missile Complex in Hyderabad, the TWT is India's third hypersonic wind tunnel. The TWT may function in three different wind velocity ranges: subsonic, transonic, and hypersonic. 
+
+
+== Programs ==
+Over the last four decades VSSC has become the leading centre for development of launch vehicle technology.
+VSSC has a matrix organization based on Projects and Entities. Core project teams manage project activities. System level activities of the projects are carried out by system development agencies. Major programmes of VSSC include the PSLV, Geosynchronous Satellite Launch Vehicle, LVM3, Rohini sounding rocket series, Space Capsule Recovery Experiment, Reusable Launch Vehicles and Air Breathing Propulsion.
+VSSC pursues research and development in the fields of aeronautics, avionics, composites, computer and information technology, control guidance and simulation, launch vehicle design, mechanical engineering, mechanisms vehicle integration and testing, propellants polymers and materials, propulsion propellants and space ordnance, and systems reliability. These research Entities are the system development agencies for the Projects and thus provide for the realization of the project objectives. Management systems area provides for programme planning and evaluation, human resource development, budget and manpower, technology transfer, documentation and outreach activities.
+VSSC is certified for compliance to ISO 9001:2000 quality management system. The quality objectives of the centre are planning, implementing and maintaining a quality system during design, development, production, and operation of subsystems and systems for launch vehicles. It also aims at achieving continued improvement in process for its zero defect goal.
+In January 2007, the SRE-1 was safely brought back to earth after 10 days in orbit. This involved a host of technologies developed at VSSC, including thermal protection systems to withstand the large heat flux of atmospheric re-entry. VSSC made significant contribution to India's maiden mission to the Moon, Chandrayaan-1.
+VSSC's R&D efforts have included solid propellant formulations. Another focus area has been navigation systems; the ISRO Inertial Systems Unit established at Vattiyoorkavu is a part of VSSC.
+VSSC also has programs focused on applications of space technology including village resource centres, telemedicine, tele-education, disaster management support and outreach through Direct To Home television broadcast.
+
+
+=== Semiconductor ===
+The first batch of the 32-bit VIKRAM3201 and KALPANA3201 microprocessors for space applications, which were designed and developed by VSSC and Semi-Conductor Laboratory, was handed over to V. Narayanan on 5 March 2025. Since 2009, ISRO's launch vehicles' has been using the 16-bit VIKRAM1601 microprocessor; it will be replaced by the VIKRAM3201 microprocessor. The POEM-4 Mission Management Computer successfully verified the VIKRAM3201, which features a custom instruction set architecture, floating-point processing capabilities, and Ada support. 
+Based on the IEEE 1754 ISA, the KALPANA3201 is a 32-bit SPARC V8 processor. It has been tested using flight software and is compatible with an open-source software toolkit, as well as an in-house simulator and integrated development environment. VIKRAM3201 will oversee mission, control, and navigation in launch vehicles during flight. It has MIL-STD-1553B interface for dependable mission-related connectivity.  
+
+
+== Former directors ==
+
+
+== See also ==
+Swami Vivekananda Planetarium
+Vikram 32
+
+
+== References ==

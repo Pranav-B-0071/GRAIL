@@ -1,0 +1,151 @@
+# Indian Regional Navigation Satellite System
+Source: https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+Indian Regional Navigation Satellite System (IRNSS), with an operational name of NavIC (acronym for Navigation with Indian Constellation; also, nāvik 'sailor' or 'navigator' in Indian languages), is an autonomous regional satellite navigation system that provides accurate real-time positioning, velocity and timing (PVT) services. It covers India and a region extending 1,500 km (930 mi) around it, with plans for further extension up to 3,000 km (1,900 mi) with 10–20 m (33–66 ft) position accuracy and 40ns time accuracy. An extended service area lies between the primary service area and a rectangle area enclosed by the 30th parallel south to the 50th parallel north and the 30th meridian east to the 130th meridian east, 1,500–6,000 km (930–3,730 mi) beyond borders where some of the NavIC satellites are visible but the position is not always computable with assured accuracy.
+
+
+== Background ==
+The system was developed partly because access to foreign global navigation satellite systems is not guaranteed in hostile situations, as happened to the Indian military in 1999 when the United States denied an Indian request for Global Positioning System (GPS) data for the Kargil region, which would have provided vital information. The Indian government approved the project in May 2006.
+The NavIC offers two levels of service, standard positioning service (SPS), which will be open for civilian use and is interoperable with GNSS, and a restricted service (RS), an encrypted channel for authorized users including the military, in L1 (1575.42 MHz, in use since the second generation), L5 (1176.45 MHz) and S Band (2498.028 MHz). 
+The first generation (IRNSS series) of the satellite network was designed for 7 satellites with three atomic clocks each, including IRNSS-1A, IRNSS-1B, IRNSS-1C, IRNSS-1D, IRNSS-1E, IRNSS-1F and IRNSS-1G serving as initial set of satellites, and replacement satellites, IRNSS-1H failing to reach orbit, followed by the successful launch of IRNSS-1I. However, multiple failure of on-board atomic clocks across satellites prompted ISRO to adopt indigenous atomic clocks, developed by the Space Application Centre, Ahmedabad, for its second generation of NVS satellites. The NVS series, including NVS-01, NVS-02, NVS-03, NVS-04 and NVS-05, would employ a mix of imported and indigenous atomic clocks as well as an increased operational lifetime from 10 to 12 years.
+However, as of March 2026, only three satellites were capable of providing PVT service — IRNSS-1B, IRNSS-1I and NVS-01 — due to the failure of atomic clocks of IRNSS satellites, failure of NVS-02 to reach orbit and launch delay of the second generation satellites. This is below the minimum number of four satellites required for an accurate position. Meanwhile, five satellites — IRNSS-1A, IRNSS-1C, IRNSS-1E, IRNSS-1F and IRNSS-1G — are being used for one-way broadcast messaging service after their on-board atomic clocks failed. IRNSS-1D has been decommissioned while two other satellites, IRNSS-1H and NVS-02, failed to reach desired orbit. ISRO is planning to launch NVS-03, NVS-04 and NVS-05 by September 2027.
+NavIC-based trackers are compulsory on commercial vehicles in India, and some consumer mobile phones with support for it have been available since the first half of 2020.
+
+
+== Developments ==
+
+
+=== First Generation (IRNSS series) ===
+As part of the project, the Indian Space Research Organisation (ISRO) opened a new satellite navigation centre within the campus of ISRO Deep Space Network (DSN) at Byalalu, Karnataka on 28 May 2013. A network of 21 ranging stations located across the country will provide data for the orbital determination of the satellites and monitoring of the navigation signal.
+A goal of complete Indian control has been stated, with the space segment, ground segment and user receivers all being built in India. Its location in low latitudes facilitates coverage with low-inclination satellites. Three satellites will be in geostationary orbit over the Indian Ocean. Missile targeting could be an important military application for the constellation.
+The total cost of the project was expected to be ₹1,420 crore (US$147 million), with the cost of the ground segment being ₹300 crore (US$31 million), each satellite costing ₹150 crore (US$16 million) and the PSLV-XL version rocket costing around ₹130 crore (US$13 million). The planned seven rockets would have involved an outlay of around ₹910 crore (US$94 million).
+The necessity for two replacement satellites, and PSLV-XL launches, has altered the original budget, with the Comptroller and Auditor General of India reporting costs (as of March 2017) of ₹2,246 crore (US$233 million).
+India's Department of Space in their 12th Five Year Plan (FYP) (2012–17) stated increasing the number of satellites in the constellation from 7 to 11 to extend coverage. These additional four satellites will be made during 12th FYP and will be launched in the beginning of 13th FYP (2018–23) in geosynchronous orbit of 42° inclination. Also, the development of space-qualified Indian made atomic clocks was initiated, along with a study and development initiative for an all optical atomic clock (ultra stable for IRNSS and deep space communication).
+The NavIC Signal in Space ICD was released for evaluation in September 2014.
+From 1 April 2019, use of AIS 140 compliant NavIC-based vehicle tracking systems were made compulsory for all commercial vehicles in India.
+In December 2019, the United States Congress consented to designate NaVIC as one of their allied navigational satellite systems along with Galileo (Europe) and QZSS (Japan). The approval was as a part of National Defense Authorization Act 2020. The proposal was put forward by United States Secretary of Defense in consultation with Director of National Intelligence.
+
+
+=== Clock failure ===
+In September 2008, it was reported that SpectraTime received a contract worth €4 million to supply Rubidium Space Clocks to ISRO for the IRNSS programme.
+In 2017, it was announced that all three SpectraTime supplied rubidium atomic clocks on board IRNSS-1A had failed, mirroring similar failures in the European Union's Galileo constellation. The first failure occurred in July 2016, followed soon after by the two other clocks on IRNSS-1A. This rendered the satellite non-functional and required replacement. ISRO reported it had replaced the atomic clocks in the two standby satellites, IRNSS-1H and IRNSS-1I in June 2017. The subsequent launch of IRNSS-1H, as a replacement for IRNSS-1A, was unsuccessful when PSLV-C39 mission failed on 31 August 2017. The second standby satellite, IRNSS-1I, was successfully placed into orbit on 12 April 2018.
+In July 2017, it was reported that two more clocks in the navigational system had also started showing signs of abnormality, thereby taking the total number of failed clocks to five, in May 2018 a failure of a further 4 clocks was reported, taking the count to 9 of the 24 in orbit.
+As a precaution to extend the operational life of navigation satellite, ISRO is running only one rubidium atomic clock instead of two in the remaining satellites.
+As of May 2023 only four first generation satellites were capable of providing navigation services which is the minimum number required for service to remain operational.
+As of September 2024 only four satellites IRNSS-1B, IRNSS-1F, IRNSS-1I and NVS-01 were capable of providing navigation services.
+In July 2025, while responding to a query through Right to Information Act, the ISRO revealed that five IRNSS satellites are completely defunct, with all of their three clocks having failed. Additionally, one satellite has only one functional clock and only two satellites are fully functional. 
+On 10 March 2026, with IRNSS-1F clock failure marking completion of its 10 year mission life reduced the satellite network to only three operational satellites sending position data, below minimum number of satellites needed for accurate position data. It will be a part of five satellites out of the eight remaining functional satellites, being used to provide one way broadcast messaging services from thereon. India had launched a total of eleven NavIC satellites at that point.
+
+
+=== Indian Atomic clock ===
+In order to reduce the dependency on imported frequency standards ISRO's Space Applications Centre (SAC), Ahmedabad had been working on domestically designed and developed Rubidium based atomic clocks. To overcome the clock failures on first generation navigation satellites and its subsequent impact on NavIC's position, navigation, and timing services, these new clocks would supplement the imported atomic clocks in next generation of navigation satellites.
+On 5 July 2017, ISRO and Israel Space Agency (ISA) signed an Memorandum of Understanding to collaborate on space qualifying a Rubidium Standard based on AccuBeat model AR133A and to test it on an ISRO satellite.
+The clocks are utilised by the NVS series of satellites. As part of the Times Dissemination Project, which is overseen by the Ministry of Consumer Affairs, Food, and Public Distribution, NavIC will take the position of GPS as the reference time provider at the National Physical Laboratory of India from 2025.
+
+
+=== Microprocessor ===
+The SPARC V8 ISA compatible AJIT microprocessor for robotics and industrial applications was created in 2018 by IIT Bombay. The Ministry of Electronics and Information Technology, IIT Bombay, and Powai Labs, a private firm from Mumbai, provided funding for the project. Initially produced by Semi-Conductor Laboratory utilizing 180nm process, commercial production using 65nm and 45nm are planned. AJIT operates at clock speeds between 70 and 120 MHz and can execute one instruction every clock cycle. 
+It includes a memory management unit that stores and retrieves data from memory, as well as an arithmetic logic unit that performs simple arithmetic and logical operations. Additionally, there is a floating point unit that can effectively manage computations involving non-integer quantities. A hardware debugger unit is used to monitor and control the microprocessor in order to program it. The Society for Applied Microwave Electronics Engineering & Research will incorporate AJIT in the receivers being developed for NavIC.
+
+
+=== NavIC chip ===
+In accordance with the range requirements for NavIC for both military and commercial applications, Defence Research and Development Organisation, through the Technology Development Fund scheme, has commissioned Accord Software and Systems, to build a tailored and flexible IRNSS Network Timing system domestically. Using NavIC data, the receiver chip will obtain and distribute Indian time for navigation. India currently depends on the US for this service.
+In 2020, Qualcomm launched four Snapdragon 4G chipsets and one 5G chipset with support for NavIC. NavIC is planned to be available for civilian use in mobile devices, after Qualcomm and ISRO signed an agreement. To increase compatibility with existing hardware, ISRO will add L1 band support. For strategic application, Long Code support is also coming.
+On December 7, 2023, Qualcomm revealed that select chipset platforms will enable NavIC L1 signals. The Qualcomm location suite, supports up to seven satellite constellations simultaneously and allows for faster Time to First Fix (TTFF) position acquisition for enhanced location-based services. It also makes use of all of NavIC's L1 and L5 signals for precise positioning. In the second half of 2024, Qualcomm chipset platforms will add further support for the NavIC L1 signals, and in the first half of 2025, commercial products that support the NavIC L1 signals should be available for sale.
+
+
+== Timeline ==
+In April 2010, it was reported that India plans to start launching satellites by the end of 2011, at a rate of one satellite every six months. This would have made NavIC functional by 2015. But the program was delayed, and India also launched 3 new satellites to supplement this.
+Seven satellites with the prefix "IRNSS-1" will constitute the space segment of the IRNSS. IRNSS-1A, the first of the seven satellites, was launched on 1 July 2013. IRNSS-1B was launched on 4 April 2014 on-board PSLV-C24 rocket. The satellite has been placed in geosynchronous orbit. IRNSS-1C was launched on 16 October 2014, IRNSS-1D on 28 March 2015, IRNSS-1E on 20 January 2016, IRNSS-1F on 10 March 2016 and IRNSS-1G was launched on 28 April 2016.
+The eighth satellite, IRNSS-1H, which was meant to replace IRNSS-1A, failed to deploy on 31 August 2017 as the heat shields failed to separate from the 4th stage of the rocket. IRNSS-1I was launched on 12 April 2018 to replace it. NVS-01, first of the second generation satellites, was successfully launched on 29 May 2023 and was placed into orbit. NVS-02, launched on 29 January 2025, failed to reach orbit. NVS-03 was expected to launch in 2025 and NVS-04 and NVS-05 was expected to launch in 2026, however none of these were realised. As of August 2026, the NVS-03 is ready and fuelled with expected to be launched in November.
+
+
+== System description ==
+The IRNSS system comprises a space segment and a support ground segment.
+
+
+=== Space segment ===
+The constellation consists of 7 satellites. Three of the seven satellites are located in geostationary orbit (GEO) at longitudes 32.5° E, 83° E, and 131.5° E, approximately 36,000 km (22,000 mi) above Earth's surface. The remaining four satellites are in inclined geosynchronous orbit (GSO). Two of them cross the equator at 55° E and two at 111.75° E.
+
+
+=== Ground segment ===
+The ground segment is responsible for the maintenance and operation of the IRNSS constellation. The ground segment comprises:
+
+IRNSS Spacecraft Control Facility (IRSCF)
+ISRO Navigation Centre (INC)
+IRNSS Range and Integrity Monitoring Stations (IRIMS)
+IRNSS Network Timing Centre (IRNWT)
+IRNSS CDMA Ranging Stations (IRCDR)
+Laser Ranging Stations
+IRNSS Data Communication Network (IRDCN)
+
+The IRSCF is operational at Master Control Facility (MCF), Hassan and Bhopal. The MCF uplinks navigation data and is used for tracking, telemetry and command functions. Seven 7.2-metre (24 ft) FCA and two 11-metre (36 ft) FMA of IRSCF are currently operational for LEOP and on-orbit phases of IRNSS satellites.
+The INC established at Byalalu performs remote operations and data collection with all the ground stations. The ISRO Navigation Centres (INC) are operational at Byalalu, Bengaluru and Lucknow. INC1 (Byalalu) and INC2 (Lucknow) together provide operations with redundancy.
+16 IRIMS are currently operational and are supporting IRNSS operations. A few more are planned in Brunei, Indonesia, Australia, Russia, France and Japan. CDMA ranging is being carried out by the four IRCDR stations on a regular basis for all the IRNSS satellites. The IRNWT has been established and is providing IRNSS system time with an accuracy of 2 ns (2.0×10−9 s) (2 sigma) with respect to UTC. Laser ranging is being carried out with the support of ILRS stations around the world. Navigation software is operational at INC since 1 Aug 2013. All the navigation parameters, such as satellite ephemeris, clock corrections, integrity parameters, and secondary parameters, such as iono-delay corrections, time offsets with respect to UTC and other GNSS, almanac, text message, and earth orientation parameters, are generated and uploaded to the spacecraft automatically. The IRDCN has established terrestrial and VSAT links between the ground stations. As of March 2021, ISRO and JAXA are performing calibration and validation experiments for NavIC ground reference station in Japan. ISRO is also under discussion with CNES for a NavIC ground reference station in France. ISRO is planning a NavIC ground station at Cocos (Keeling) Islands and is in talks with the Australian Space Agency.
+
+
+=== Signal ===
+NavIC signals will consist of a Standard Positioning Service and a Restricted Service. Both will be carried on L5 (1176.45 MHz) and S band (2492.028 MHz). The SPS signal will be modulated by a 1 MHz BPSK signal. The Restricted Service will use BOC(5,2). The navigation signals themselves would be transmitted in the L5 (1176.45 MHz) & S band (2492.028 MHz) frequencies and broadcast through a phased array antenna to maintain required coverage and signal strength. The satellites would weigh approximately 1,330 kg (2,930 lb) and their solar panels generate 1,400 W.
+A messaging interface is embedded in the NavIC system. This feature allows the command center to send warnings to a specific geographic area. For example, fishermen using the system can be warned about a cyclone.
+
+
+=== Accuracy ===
+The Standard Positioning Service system is intended to provide an absolute position accuracy of about 5 to 10 metres throughout the Indian landmass and an accuracy of about 20 metres (66 ft) in the Indian Ocean as well as a region extending approximately 1,500 km (930 mi) around India. GPS, for comparison, has a position accuracy of 5 m under ideal conditions. However, unlike GPS, which is dependent only on L-band, NavIC has dual frequencies (S and L bands). When a low-frequency signal travels through atmosphere, its velocity changes due to atmospheric disturbances. GPS depends on an atmospheric model to assess frequency error, and it has to update this model from time to time to assess the exact error. In NavIC, the actual delay is assessed by measuring the difference in delay of the two frequencies (S and L bands). Therefore, NavIC is not dependent on any model to find the frequency error and can be more accurate than GPS.
+
+
+== Future developments ==
+
+
+=== Second Generation (NVS series) ===
+ISRO will be launching five next generation satellite featuring new payloads and extended lifespan of 12 years. Five new satellites viz. NVS-01, NVS-02, NVS-03, NVS-04 and NVS-05 will supplement and augment the current constellation of satellites. The new satellites will feature the L5 and S band and introduces a new interoperable civil signal in the L1 band in the navigation payload and will use Indian Rubidium Atomic Frequency Standard (iRAFS.) This introduction of the new L1 band will help facilitate NavIC proliferation in wearable smart and IoT devices featuring a low power navigation system. NVS-01 is a replacement for IRNSS-1G satellite and was launched on GSLV in 2023.
+ISRO has plans for a total of 7 NVS series satellites (including already launched NVS-1) for civilian navigation requirements. The IRNSS network is, as of November 2024, confined to strategic use by the Indian Armed Forces. They will be equipped with L1 band along with the L5 and S band. The system will provide an accuracy of 10 m (33 ft) within India, 20 m (66 ft) for the area surrounding India by 1,500 km (930 mi).
+Approved project cost of first five NVS satellites (NVS-01 to NVS-05) is ₹964.68 crore (equivalent to ₹10 billion or US$110 million in 2023) excluding the launch costs.
+As reported in August 2025, ISRO plans to launch at least three satellites by the end of 2026. However, the development of indigenous atomic clocks is an "element impeding the launch". The development is also being delayed since multiple components are needed to be imported which leads to procurement challenges. Following the multiple instances of atomic clock failures, five atomic clocks per satellite has been proposed for future units.
+As reported on 14 August 2026, the NVS-03 satellite is ready for launch at the Sriharikota spaceport and could be launched during the launch window of the first week of September or in November. Further, NVS-04 and NVS-05 were also under "advanced stages of realisation" and would be launched within six and twelve months of the launch of NVS-03, respectively.
+
+
+=== Global Indian Navigation System ===
+Study and analysis for the Global Indian Navigation System (GINS) was initiated as part of the technology and policy initiatives in the 12th FYP (2012–17). The system is supposed to have a constellation of 24 satellites, positioned 24,000 km (14,913 mi) above Earth. As of 2013, the statutory filing for frequency spectrum of GINS satellite orbits in international space, has been completed. As per new 2021 draft policy, ISRO and Department of Space (DoS) is working on expanding the coverage of NavIC from regional to global that will be independent of other such system currently operational namely GPS, GLONASS, BeiDou and Galileo while remaining interoperable and free for global public use. ISRO has proposed to Government of India to expand the constellation for global coverage by initially placing twelve satellites in Medium Earth Orbit (MEO).
+
+
+== List of satellites ==
+The constellation consists of 7 active satellites. Three of the seven satellites in constellation are located in geostationary orbit (GEO) and four are in inclined geosynchronous orbit (IGSO). All satellites launched or proposed for the system are as follows:
+
+
+=== IRNSS series satellites ===
+
+
+=== NVS series satellite ===
+
+
+== See also ==
+Bhuvan
+Indian Space Research Organisation
+GPS-aided GEO augmented navigation (GAGAN)
+List of Indian satellites
+Indian Remote Sensing Programme (IRSP)
+Indian National Satellite System (INSAT)
+GSAT
+
+
+=== Other systems ===
+
+BeiDou – global navigation satellite system operated by China.
+Galileo – global navigation satellite system operated by the European Union.
+GLONASS – global navigation satellite system operated by Russia.
+GPS – global navigation satellite system operated by the United States.
+QZSS – regional navigation satellite system operated by Japan, receivable in the Asia-Oceania region.
+
+
+== References ==
+
+
+=== Footnotes ===
+^ SATNAV Industry Meet 2006. ISRO Space India Newsletter. April – September 2006 Issue.
+
+
+== External links ==
+IRNNS programme Archived 2 March 2022 at the Wayback Machine
+Official Website
+IRNSS Programme at ISRO

@@ -1,0 +1,105 @@
+# Small Satellite Launch Vehicle
+Source: https://en.wikipedia.org/wiki/Small_Satellite_Launch_Vehicle
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+The Small Satellite Launch Vehicle (SSLV) is a small-lift launch vehicle developed by ISRO to deliver 500 kg (1,100 lb) payload to low Earth orbit (500 km (310 mi)) or 300 kg (660 lb) payload to Sun-synchronous orbit (500 km (310 mi)). The rocket supports multi-orbital drop-offs capability for small satellites.
+The maiden flight SSLV-D1 was conducted from First Launch Pad on 7 August 2022, however, the payload failed to reach the intended orbit. The second flight SSLV-D2 was successful in delivering payload into orbit on 10 February 2023.
+SSLV is made keeping low cost, low turnaround time in mind with launch-on-demand flexibility under minimal infrastructure requirements. It is capable of carrying multiple satellites. Once SSLV is operational, NewSpace India Limited (NSIL) and a group of Indian companies will manage the mass production and launch activities.
+
+
+== History ==
+
+
+=== Development ===
+In 2015, a National Institute of Advanced Studies report by Rajaram Nagappa proposed development path of a 'Small Satellite launch Vehicle-1' to launch strategic payloads. In National Space Science Symposium 2016, then Director of Liquid Propulsion Systems Centre, S. Somanath also acknowledged a need for identifying a cost effective launch vehicle configuration with 500 kg payload capacity to LEO and by November 2017, development of such launch vehicle was underway.
+By December 2018, the Vikram Sarabhai Space Centre (VSSC) completed the design for the vehicle. The aerodynamic characterization research was conducted at the National Aerospace Laboratories' 1.2m Trisonic Wind Tunnel Facility.
+In December 2020, all booster segments for SSLV first stage (SS1) static test (ST01) were received and assembly was done in Second Vehicle Assembly Building (SVAB).
+The first static fire test (ST01) of the SS1 first-stage booster conducted on 18 March 2021 was unsuccessful. About 60 seconds into the test, oscillations were observed and after 95 seconds, the nozzle of SS1 stage disintegrated. The nominal duration of test was 110 seconds. To qualify for flight, SSLV's solid first stage SS1 has to perform two consecutive nominal static fire tests.
+The SSLV Payload Fairing (SPLF) functional qualification test was completed in August 2021.
+The second static fire test of SSLV first stage SS1 was conducted on 14 March 2022 at SDSC-SHAR and met the required test objectives.
+
+
+=== Further Development ===
+ISRO carried out a successful static test of an improved version of the third stage of the SSLV on 30 December 2025, at the Solid Motor Static Test Facility of SDSC. It validated an improved version of the SS3 stage with a Carbon-epoxy Motor case built by VSSC, which has significantly reduced the mass of the stage, thereby improving the payload performance of SSLV by 90 kg. The stage also features an improved design for the igniter and nozzle system. It will be deployed on the next flight mission of the SSLV onwards.
+ISRO carried out a similar static test for improvements in the vehicles first stage on 11 August 2026 at the Solid Motor Static Test Facility of SDSC.The design improvements that were tested include more optimized thermal protection system and process improvements in the nozzle sub-system to make it more production friendly along with a reduction in the mass. This led to an enhanced propellant burn rate in two motor segments, boosting payload capacity further by another 100kg.
+
+
+=== Operational history ===
+
+
+==== SSLV-D1 ====
+
+The first developmental flight of the SSLV occurred on 7 August 2022. The flight mission was named SSLV-D1. The SSLV-D1 flight failed to achieve its mission objectives.
+The rocket had a three-stage configuration with a fourth Velocity Trimming Module (VTM). In its D1 configuration, the rocket was 34m tall with a diameter of 2m and a lift-off mass of 120t.
+The rocket carried EOS 02, an Earth observation satellite that weighed 135 kg and AzaadiSAT, a CubeSat payload that weighed 8 kg, developed by Indian students to promote inclusivity in STEM education. The SSLV-D1 was supposed to place the two satellite payloads in a circular orbit of altitude 356.2 km with 37.2° inclination.
+The official explanation by the ISRO for the mission failure was software malfunction. According to the ISRO, the mission software detected an accelerometer anomaly during the second stage separation. This caused the rocket navigation to switch from a closed loop guidance to an open loop guidance. Even though, this switch in guidance mode was part of the redundancy built into the rocket's navigation, it could not salvage the mission.
+During the open loop guidance mode, the final VTM stage only managed to fire for 0.1s instead of the intended 20s. This led to the two satellites as well as the VTM stage of the rocket being injected into an unstable elliptical transatmospheric orbit of 360.56×75.66 km with an inclination of 36.56°.
+The SSLV-D1's final VTM stage had 16 hydrazine (MMH+MON3) fueled  thrusters. Eight of those were to provide altitude control and the remaining eight for controlling the orbital velocity. The VTM stage also provided pitch, yaw and roll control during the orbital insertion maneuvers. The three main stages of the SSLV-D1 functioned normally. But, that was not enough to impart adequate impulse for the two satellite payloads to achieve stable orbits. For the injection of the two satellite payloads into their intended stable orbits, the VTM stage had to fire for at least 20 seconds, to impart enough additional orbital velocity and altitude corrections. Instead the VTM kicked-in at 653.5s and shut itself down at 653.6s, post lift-off. Following the partial firing of the VTM stage, the EOS 02 was released at 738.5s and AazadiSAT at 788.4s, post-liftoff. These failures transpired, resulting in the satellites entering an unstable orbit and subsequently destroyed upon reentry.
+
+
+==== SSLV-D2 ====
+
+On 10 February 2023, SSLV completed its second developmental mission, putting three satellites into their planned orbits. The three-stage rocket successfully launched EOS-07 into a circular orbit around 13 minutes after liftoff. Also, Janus-1 and AzaadiSAT-2 satellites into their orbits about 1.6 minutes later. The purpose of SSLV-D2 is to launch the three satellites into a 450-kilometer circular orbit and showcase the in-flight performance of the SSLV vehicle systems. A total of 175.2 kilograms was carried by the SSLV-D2: 10.2 kg for Janus-1, 8.7 kg for AzaadiSAT-2, and 156.3 kg for EOS-07.
+After analyzing the problems with SSLV-D1, ISRO chose the necessary remedial measures and put them into practice. The development team conducted a number of simulations and studies to make sure that SSLV-D2 mission would succeed. According to SSLV-D1 fault evaluation study, six onboard accelerometers detected vibrations that were longer in duration and more intense during the second stage of separation. In order to ensure that this problem doesn't occur again, the second stage detachment system in SSLV-D2 was modified to reduce vibrations. Furthermore, the system was redesigned to navigate utilizing NavIC data and readings will now be monitored for a longer time before entering rescue mode.
+The separation mechanism, the equipment bay, and the on-board system for identifying malfunctioning sensors were further modified and five new pieces of hardware were installed. The electronics in SSLV-D2 worked successfully, as did the launch vehicle's new, affordable guidance and navigation system.
+
+
+==== SSLV-D3 ====
+
+The Earth Observation Satellite EOS-08 was launched by ISRO on 16 August 2024, using SSLV-D3. At the Satish Dhawan Space Centre, the final development flight successfully took off from the first launch pad. After seventeen minutes, the EOS-08 was injected into a 475 km circular orbit, following the instructed injection conditions without any deviations. The SSLV development process is now officially complete. The development team will continue to search for specific operational activities in the VTM stage before ISRO supplies the industry with SSLV technology for serial production. Any necessary fine-tuning will be finished prior to the technology transfer. With a 72-hour turnaround time, the ability to support several satellites, a small launch infrastructure requirement with a team of 6 people, and the possibility of launch on demand, SSLV is now a cost-effective solution. Repeatable flight performance of the SSLV vehicle systems has also been demonstrated by SSLV-D3. The successful flight of SSLV-D3 permits the Indian private sector and NewSpace India Limited to use the rocket for operational flights.
+The SSLV Project was completed after more than seven years of construction. Six companies are now in the process of acquiring the SSLV technology, while at least ten companies and consortia have expressed interest in manufacturing. The integration and launch time of SSLV rocket is less than 24 hours.
+
+
+=== Commercialisation ===
+The SSLV program has been planned from the beginning a rocket  to be privatised by ISRO. As of February 2025, a bidding process is underway. Prominent Indian companies such as  Adani Defence ; Bharat Dynamics Limited; and Hindustan Aeronautics Limited have expressed interest in bidding for the vehicle.
+In June 2025, Hindustan Aeronautics Limited  was awarded the full contract to manufacture, market, and launch the SSLV rocket, following a TOT agreement with ISRO.HAL was selected from a list of nine bidders and were the highest techno-commercial bid, valued at ₹5.1 billion ($59 million) .The TOT-agreement  is expected to take two years to finalise. ISRO is planning to Award a contract to HAL in partnership with L&T for the supply of an initial batch of Five SSLV rockets for ISRO launches. On 10 September 2025, ISRO and HAL signed an agreement of technology transfer agreement to produce two SSLV rockets in 2 years.
+
+
+== Vehicle description ==
+
+The SSLV was developed with the aim of launching small satellites commercially at drastically reduced price and higher launch rate compared to Polar Satellite Launch Vehicle (PSLV). The development cost of SSLV is ₹169.07 crore (equivalent to ₹190 crore or US$20 million in 2023) and the manufacturing cost is expected to be ₹30 crore (US$3.1 million) to ₹35 crore (US$3.6 million). According to analysts, this places it among the most affordable rockets in its class.
+The projected high launch rate relies on largely autonomous launch operation and on overall simple logistics. To compare, a PSLV launch involves 600 officials while SSLV launch operations would be managed by a small team of about six people. The launch readiness period of the SSLV is expected to be less than a week instead of months. The launch vehicle can be assembled both vertically like the existing PSLV and Geosynchronous Satellite Launch Vehicle (GSLV) and horizontally like the retired Satellite Launch Vehicle (SLV) and Augmented Satellite Launch Vehicle (ASLV).
+The first three stages of the vehicle use HTPB based solid propellant, with a fourth terminal stage being a Velocity-Trimming Module (VTM) with  eight 50 N thrusters for reaction control and eight 50 N axial thrusters for changing velocity. With these VTM can add Delta-v of up to 172 m/s.
+The first stage (SS1) and third stage (SS3) of SSLV are newly developed while second stage (SS2) is derived from third stage (HPS3) of PSLV.
+
+
+=== SSLV Launch Complex ===
+
+The early developmental flights and those to inclined orbits will launch from Sriharikota, at first using the First Launch pad at SDSC and later from dedicated facility called the SSLV Launch Complex (SLC) in Kulasekharapatnam. Tenders related to manufacturing, installation, assembly, inspection, testing and Self Propelled launching Unit (SPU) were released in October 2019.
+This new spaceport, under development, near Kulasekharapatnam in Tamil Nadu will handle SSLV launches to Sun-synchronous orbit when complete.
+
+
+=== General Characteristics ===
+Vehicle characteristics:
+
+Height: 34 meters
+Diameter: 2 meters
+Mass: 120 tonnes
+Payloads capabilities
+
+Single/Multi Satellites - Nano, Micro, Mini satellites
+500 kg in 500 km orbit at 35° to 55° inclination range.
+Up to 300 kg into 500 km sun-synchronous orbit.
+
+
+== SSLV launch statistics ==
+
+Decade-wise summary of SSLV launches
+
+
+== See also ==
+ 
+ISRO
+List of SSLV launches
+Polar Satellite Launch Vehicle
+Geosynchronous Satellite Launch Vehicle
+LVM3
+Next Generation Launch Vehicle
+Launch vehicles of ISRO
+
+
+== References ==
+
+
+== External links ==
+ Media related to Small Satellite Launch Vehicle at Wikimedia Commons

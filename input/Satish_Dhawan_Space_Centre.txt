@@ -1,0 +1,114 @@
+# Satish Dhawan Space Centre
+Source: https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+Satish Dhawan Space Centre – SDSC (formerly Sriharikota Range – SHAR) is the primary spaceport of ISRO, located in Sriharikota, an island in Tirupati district of Andhra Pradesh, India. The spaceport is located on an island off the east coast of India, surrounded by Pulicat Lake and the Bay of Bengal. The distance of Sriharikota from Chennai is 105 km (65 mi) and from Nellore is 119 km (74mi).
+The centre currently has three functioning launch pads used for launching sounding rockets, polar satellites and geosynchronous satellites. India's Lunar exploration probes Chandrayaan-1, Chandrayaan-2, Chandrayaan-3, Mars Orbiter Mission, solar research mission Aditya-L1 and space observatory XPoSat were also launched from SDSC.
+Originally called Sriharikota Range (SHAR), the centre was renamed on 5 September 2002 as a tribute to ISRO's former chairman Satish Dhawan with retaining its original acronym and is referred as SDSC-SHAR.
+
+
+== History ==
+Sriharikota island was chosen in 1969 for a satellite launching station. It is located 80 km (50 mi) north of Chennai. The centre became operational on 9 October 1971 when an RH-125 sounding rocket was launched. The first attempted launch of an orbital satellite, Rohini 1A aboard a Satellite Launch Vehicle, took place on 10 August 1979, but due to a failure in thrust vectoring of the rocket's second stage, the satellite's orbit decayed on 19 August 1979. SHAR was named as 'Satish Dhawan Space Centre SHAR' (SDSC), on 5 September 2002, in memory of Satish Dhawan, former chairman of the ISRO.
+The SHAR facility now consists of two launch pads, with the second built in 2005. The second launch pad was used for launches beginning in 2005 and is a universal launch pad, accommodating all of the launch vehicles used by ISRO. The two launch pads will allow multiple launches in a single year, which was not possible earlier. India's lunar orbiter Chandrayaan-1 launched from the centre at 6:22 AM IST on 22 October 2008. India's first Mars orbiter Mangalyaan was launched from the centre on 5 November 2013, which was successfully placed into Mars orbit on 24 September 2014.
+Initially under Indian Human Spaceflight Programme existing launch facilities will be augmented to meet the target of launching a crewed spacecraft called Gaganyaan.
+SDSC's current director is E.S.Padhmakumar. He took over from Arumugam Rajarajan on 1 August .
+
+
+== Location ==
+Satish Dhawan Space Centre (SDSC-SHAR) is located in Sriharikota, a spindle-shaped barrier island, in Tirupati district, on the east coast of Andhra Pradesh. Features like a good launch azimuth corridor for various missions, nearness to the equator (benefiting eastward launches), and large uninhabited area for a safety zone make it an ideal spaceport.
+SHAR covers a total area of about 145 km2 (56 mi2) with a coastal length of 27 km (17 mi). Prior to its acquisition for ISRO by the Government of India, it was a firewood plantation of Eucalyptus and Casuarina trees. This island is affected by both south-westerly and north-easterly monsoons, but heavy rains come only in October and November. Thus many clear days are available for out-door static tests and launchings.
+SHAR is linked to Sullurupeta by a road across Pulicat Lake. Sullurupeta has connectivity with other parts of India by Indian Railways and is on a National Highway 16 (India) that connects it to Chennai and Kolkata.
+
+
+== Launch history ==
+
+Originally known as the Sriharikota Range (SHAR) and later named after Satish Dhawan. It is India's primary orbital launch site to this day. First flight-test of 'Rohini-125', a small sounding rocket which took place on 9 October 1971 was the first rocket launch from SHAR. Since then technical, logistic and administrative infrastructure have been enhanced. Together with the northerly Balasore Rocket Launching Station, the facilities are operated under the ISRO Range Complex (IREX) headquartered at SHAR.
+
+
+=== Satellite Launch Vehicle (SLV)-RETIRED ===
+The range became operational when three Rohini 125 sounding rockets were launched on 9 and 10 October 1971. Previously, India used Thumba Equatorial Rocket Launching Station (TERLS), at Thiruvananthapuram, on the south-western coast of India, to launch sounding rockets. The first test launch of the complete SLV-3 rocket occurred in August 1979 but it was only partially successful following a malfunction in the second-stage guidance system. SHAR facilities worked satisfactorily during the SLV-3 preparation and launch. On 18 July 1980 the SLV-3 successfully launched India's third satellite. Out of the four SLV launches from SHAR, two were successful.
+
+
+=== Augmented Satellite Launch Vehicle (ASLV)-RETIRED ===
+The ASLV orbital launcher was integrated vertically, beginning with motor and subassembly preparations in the Vehicle Integration Building (VIB) and completed on the pad within the 40 m tall Mobile Service Structure. The first ASLV launch from SHAR took place in 1987 and resulted in a failure. Eventually, out the four ASLV launches from 1987 to 1994, only one was successful. 
+
+
+=== Polar Satellite Launch Vehicle (PSLV) ===
+The Polar Satellite Launch Vehicle launch complex was commissioned during 1990. It has a 3,450 tonne, 76.5 m high Mobile Service Tower (MST) which provides the SP-3 payload clean room. The solid propellant motors for the PSLV are processed by SHAR, which also carries out launch operations. The first launch of the PSLV took place on 20 September 1993.
+
+
+=== Geosynchronous Satellite Launch Vehicle (GSLV) ===
+The first launch of India's Geosynchronous Satellite Launch Vehicle (GSLV) was successfully completed on 18 April 2001. GSLV, with its own cryogenic upper stage, has enabled the launch of communications satellites of the class up to 2 tonnes. The next variant of GSLV is GSLV Mk III with its own cryogenic high-thrust engine and stage capable of launching communications satellites of the 4-ton class.
+
+
+== Facilities ==
+
+The SDSC has two operational orbital launch pads. SHAR is ISRO's satellite launching base and additionally provides launch facilities for the full range of Rohini sounding rockets. The Vehicle Assembly, Static Test and Evaluation Complex (VAST, previously STEX) and the Solid Propellant Space Booster Plant (SPROB) are located at SHAR for casting and testing solid motors. The site also has a Telemetry, Tracking, Range Instrumentation, & Control centre for Range Operation (RO), Liquid Propellant Storage and Servicing Facilities (LSSF), the Management Service Group and Sriharikota Common Facilities. The PSLV launch complex was commissioned in 1990. It has a 3,450 tonne, 76.5 m high Mobile Service Tower (MST) which provides the SP-3 payload clean room.
+The Solid Propellant Space Booster Plant (SPROB) processes large size propellant grains for the satellite launch vehicles. The Vehicle Assembly & Launching Facility (VALF), Solid Motor Preparation & Environmental Testing Facility (SMP&ETF) tests and qualifies different types of solid motor for launch vehicles. The control centre at SHAR houses computers and data processing, closed circuit television, real-time tracking systems and meteorological observation equipment. It is linked to eight radars located at Sriharikota and the five stations of ISRO's Telemetry, Tracking & Command Network (ISTRAC).
+The propellant production plant produces composite solid propellant for rocket motors of ISRO using ammonium perchlorate (oxidiser), fine aluminium powder (fuel) and hydroxyl terminated polybutadiene (binder). The solid motors processed here include those for the first-stage booster motor of the Polar Satellite Launch Vehicle (PSLV) — a five segmented motor of 2.8 m (9 ft 2 in) diameter and 22 m (72 ft) length, weighing 160 tonnes (160 long tons; 180 short tons) with a thrust level of 450 tonnes (440 long tons; 500 short tons).
+Rocket motors and their subsystems have to be rigorously tested and evaluated on ground before they are declared flight worthy. The facilities at SDSC are used for testing solid rocket motors, both at ambient conditions and simulated high altitude conditions. Besides these, there are facilities for conducting vibration, shock, constant acceleration and thermal/humidity tests.
+SDSC has infrastructure for launching satellites into low Earth orbit, polar orbit and geo-stationary transfer orbit. The launch complexes provide support for vehicle assembly, fueling, checkout and launch operations. The centre also has facilities for launching sounding rockets for atmospheric studies. The mobile service tower, launch pad, preparation facilities for different launch stages & spacecraft, storage, transfer and servicing facilities for liquid propellants, etc., are the principal parts of the PSLV/GSLV launch complex.
+For supporting the LVM3, additional facilities were set up at SDSC. A new plant (SPP) is set up to process heavier class boosters with 200 tonnes of Solid propellant. The static test complex is being augmented for qualifying the S-200 booster. Other new facilities include a Solid Stage Assembly Building, Satellite Preparation and Filling Facility and Hardware Storage buildings. The existing liquid propellant and cryogenic propellant storage and filling systems, Propellant Servicing Facilities will also be augmented. The range instrumentation system will be enhanced further.
+SDSC also has a S band doppler weather radar that contributes to India Meteorological Department radar network and serves as a stand-in for Doppler weather radar in Chennai.
+
+ISRO opened a viewing gallery at the Satish Dhawan Space Centre in March 2019. The gallery faces the two launchpads and can accommodate 5,000 people giving the general public the opportunity to witness rocket launches. The launch of PSLV-C45 on 1 April 2019 was the first launch that allowed spectators into the gallery.
+
+
+== Launch pads ==
+  
+
+
+=== SLV-3 Launch Pad ===
+The SLV3 Launch Pad, located at 13.6664°N 80.2272°E﻿ / 13.6664; 80.2272﻿ (SLV3 Launch Pad), began operation in 1979 and was decommissioned in 1994. It was used by two launch vehicles of the ISRO: the Satellite Launch Vehicle (SLV) and the Augmented Satellite Launch Vehicle (ASLV). Initially it was built for launching SLV-3s but was later also used as an ASLV launch complex. The first launch from this pad occurred on 10 August 1979, and was that of the first experimental flight of SLV-3 carrying the Rohini Technology Payload satellite. The last flight was of ASLV on 4 May 1994 carrying SROSS-C2.
+
+
+=== First Launch Pad ===
+
+The First Launch Pad (FLP), located at 13.7333°N 80.2347°E﻿ / 13.7333; 80.2347﻿ (First Launch Pad), began operation in 1993. It is currently used to launch the Polar Satellite Launch Vehicle, and formerly used by the Geosynchronous Satellite Launch Vehicle. It is one of two operational orbital launch pads at the site, the other being the Second Launch Pad, which opened in 2005. The first launch from this pad occurred on 20 September 1993, and was the maiden flight of the Polar Satellite Launch Vehicle (PSLV) carrying the IRS-1E satellite. The maiden flight of the Small Satellite Launch Vehicle (SSLV) also occurred from this pad on 7 August 2022.
+The FLP is undergoing major expansion with PIF (PSLV Integration Facilities) project worth ₹475 crore (US$49 million). Once complete, the first launch pad is expected to cater to around 12-15 launches per year.
+
+PSLV Integration Facility
+As part of three space infrastructure projects totaling ₹1,800 crore, Prime Minister Narendra Modi formally inaugurated the PSLV Integration Facility (PIF) at the Satish Dhawan Space Centre, Sriharikota, from the Vikram Sarabhai Space Centre (VSSC) on 27 February 2024. Instead of being assembled and integrated at Vehicle Assembly and Launching Facility (VALF) and Mobile Service Tower (MST) respectively, the PSLV-C60 launch vehicle for SpaDeX mission was for the first time assembled in the new PIF building and transported to the launch pad to reduce the lead-in time between missions. The PIF building is an extension of the FLP. It can assist the integration, checkout, and launch of private sector rockets from firms like Skyroot Aerospace and AgniKul Cosmos as well as smaller launch vehicles like SSLV.
+
+
+=== Second Launch Pad ===
+
+The Second Launch Pad (SLP), located at 13.7199°N 80.2305°E﻿ / 13.7199; 80.2305﻿ (Second Launch Pad), was designed, supplied, erected and commissioned by MECON Limited, a Government of Indian Enterprise, located at Ranchi (Jharkhand, India) during the period March 1999 to December 2003. It cost about ₹400 crore (equivalent to ₹14 billion or US$140 million in 2023) at that time. It serves as a launchpad for GSLV and LVM3 as well as a standby for PSLV. It takes about Six to Eight weeks following a launch to refurbish the launch pad to support another launch.
+The second launch pad with associated facilities was built in 2005 and became operational on 5 May  with the launching of PSLV-C6. MECON's sub-contractors for this project including Inox India, HEC, Tata Growth, Goderej Boyce, Simplex, Nagarjuna Construction, Steelage, etc. The other Launch Pad being the FLP. It is used by PSLV, GSLV, LVM3 and is intended for India's first crewed space mission.
+The first launch from the pad occurred on 5 May 2005, and was of a Polar Satellite Launch Vehicle carrying the Cartosat-1 and HAMSAT satellites. India's 1st Moon Mission, Chandrayaan-1 was launched from this launch pad on 22 October 2008. Its follow-up missions were also launched from this launch pad, where Chandrayaan-2 was launched on 22 July 2019 and Chandrayaan-3 was launched on 14 July 2023.
+In November 2019, ISRO released tenders for augmentation of the SLP for the Gaganyaan project. Systems such as a crew ingress and egress system, access platform, recovery setup for emergencies during the flight's ascent phase, module preparation facility for assembly and testing along with an helipad are built at a cost of about ₹2000 crore. All the facilities will be connected an upcoming Gaganyaan control facility, which will monitor and communicate with the Astronauts during the Spaceflight. By 2025, all facilities had been upgraded, along with a white room for the crew to wear their space suits and a zipline crew evacuation system.
+
+
+=== Third Launch Pad ===
+A Third Launch Pad (TLP) was proposed in 2012 with estimated cost to be ₹500 crore (US$52 million). This launch pad is intended to be used for NGLV and LVM3. The launch pad will be used for India's future human space missions. Main reasons behind establishing this launch pad were that it will provide redundancy to existing launch pads as well as increase the frequency of orbital launches from SDSC-SHAR with a new larger assembly facility called Second Vehicle Assembly Building (SVAB) serving it.
+But due to lack of budgetary resources and delays in LVM3 being operational and subsequent conceptualization of next generation launch vehicles that Third Launch Pad was supposed to serve, the project has not been approved. Second Vehicle Assembly Building (SVAB) facility was established in 2019 and currently serves Second Launch Pad.
+In 2018, after the announcement of the Gaganyaan project under the Indian Human Spaceflight Programme, it was thought a new launch pad might be needed. However, it was decided to augment the SLP for crewed flights instead. Instead it would be developed for use by the upcoming NGLV rocket.
+On 8 October 2024, India Today reported that the proposal has been present in front of the space cabinet for final budget approval. It is proposed to have NGLV horizontally integrated, requiring a different set of changes as compared to the other launch pads.The new facility will also accommodate more liquid engine boosters, necessitating a redesigned jet deflector system.It is planned for the third launch pad to be used for entire-stage testing, streamlining test operations for ISRO.
+On 16 January 2025, the Union Cabinet cleared the establishment of the TLP. The TLP will be used for both NGLV and LVM3 launches and will act as a standby for SLP. The TLP is to be established within 4 years at a cost of ₹3,984.86 crore (US$410 million).
+
+
+=== ALP-01 (Dhanush) Launch Pad ===
+AgniKul Cosmos inaugurated first private launchpad and mission control centre in India at the SDSC in Sriharikota, Andhra Pradesh on 28 November 2022. The launchpad and the mission control centre are 4 km (2.5 mi) apart from one another. At present, the launchpad can handle liquid stage launch vehicle. The pad has received the name Dhanush and referred as ALP-01.
+All the critical systems performing functions at Agnikul launchpad (ALP) and the Agnikul mission control center (AMCC) have high degree of redundancy to ensure 100% operationality although none of these systems were tested so far. ISRO's range operations team will monitor key flight safety parameters during launches from ALP while AMCC can share critical data with ISRO's Mission Control Center. Both the facilities have support of ISRO and Indian National Space Promotion and Authorisation Centre (IN-SPACe).
+
+
+== See also ==
+
+SSLV Launch Complex
+Thumba Equatorial Rocket Launching Station
+Vikram Sarabhai Space Centre
+List of Satish Dhawan Space Centre launches
+
+
+== References ==
+
+
+== External links ==
+
+Satish Dhawan Space CentreAnOfficiproposed
+Chandrayaan-1
+Sriharikota on Encyclopedia Astronautica
+About Shar c, streamlining payload testing operations.entre
+Federation of American Scientists: Satish Dhawan Space Centre Archived 7 September 2008 at the Wayback Machine
+SHAR centre layout
+Spaceport of India – SHAR center of ISRO Archived 13 April 2023 at the Wayback Machine

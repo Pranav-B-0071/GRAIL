@@ -1,0 +1,99 @@
+# SpaDeX
+Source: https://en.wikipedia.org/wiki/SpaDeX
+License: CC BY-SA 4.0 (Wikipedia contributors)
+
+SpaDeX or Space Docking Experiment is a twin satellite mission developed by ISRO to mature and demonstrate technologies related to orbital rendezvous, docking, formation flying, which will have future applications in areas such as human spaceflight, in-space satellite servicing and other proximity operations.
+SpaDeX consists of two modified IMS-1 class satellites weighing 220 kg each. During proximity operations one spacecraft acts as a Chaser and other acts as a target. Both spacecraft were launched together from the first launch pad of Satish Dhawan Space Centre (SDSC) aboard a dedicated Polar Satellite Launch Vehicle (PSLV) on 30 December 2024 at 16:30:15 UTC and subsequently injected into slightly different orbits.
+After deployment, the two spacecraft then executed manoeuvres to bring them together again. The Chaser (SDX01) approached the target (SDX02) and then carried out precision manoeuvres to complete a successful docking. With this success, India became one of the few countries in the world to have achieved a successful in-space docking using indigenous technology.
+
+
+== History ==
+
+
+=== Conceptualisation ===
+The research and development (R&D) needed to complete the project began with preliminary studies in 2016. The Space Docking Experiment (SpaDeX) was approved by the Government of India with an initial funding of ₹10 crore, cleared in 2017.As of July 2022, the SpaDeX project was sanctioned with approximately ₹124.47 crore (equivalent to ₹132 crore or US$14 million in 2023) in funding.
+The Chaser and Target satellites, along with related docking technologies, were designed and implemented for the SpaDeX mission by U. R. Rao Satellite Centre (URSC) with assistance from Vikram Sarabhai Space Centre (VSSC), Liquid Propulsion Systems Centre (LPSC), Space Applications Centre (SAC), ISRO Inertial Systems Unit (IISU), and Laboratory for Electro-Optics Systems (LEOS).
+For the SpaDeX satellites, Ananth Technologies provided Rendezvous Processing Units (RPU) and DC-to-DC converters. Additionally, the company provided 29 essential components for the PSLV-C60 launch vehicle, such as data acquisition units, transmitters, power modules, NavIC chip and control modules. In less than three months, Ananth Technologies completed the satellite assembly, integration, and testing for ISRO, and delivered them to the URSC. As per the former chairman of ISRO, S. Somanath, docking is a crucial component for Chandrayaan-4 and that SpaDeX is intended as a demonstrator and forerunner.
+According to Jitendra Singh Rana, Minister of State for Science & Technology and Earth Sciences, and Prime Minister Narendra Modi, the development of the SpaDeX mission represents a significant step forward in the establishment of Bharatiya Antariksh Station by 2035. Mastering docking techniques is essential for future deep space missions, according to Nambi Narayanan. As per Mylswamy Annadurai, the project director of the Chandrayaan-1, the demonstrated docking technique will aid in the future management of space debris.
+
+
+=== Launch ===
+
+On 30 December 2024, PSLV-C60 launched both SDX01 and SDX02 spacecraft into a 475-kilometer-high circular orbit with an inclination of 55° at 21:58 hours IST (16:28 GMT) from the First Launch Pad at SDSC. The launch occurred without any incident. Both spacecraft separated successfully from the launch vehicle at 15 minutes after the launch. At that time, both spacecraft were orbiting the Earth at a speed of 28,800 kilometres per hour, albeit into slightly different orbits with a difference of about 20 kilometers and a local time cycle of about 66 days. The POEM-4 orbital platform was also carried on the flight with 24 different experiments developed by ISRO and other agencies. ISRO Chairman S. Somanath announced shortly after the flight that the first docking attempt could be done as early as 7th January 2025.
+The launch vehicle deployed the spacecraft separately in order to create a separation between them of about 20 km (12 mi). After the spacecraft executed manoeuvres to prevent them from drifting further apart and then to begin the rendezvous operation. Over subsequent days, ISRO increased the separation between the two spacecraft to greater than 20km. On 6 January, the docking manoeuvre was postponed from 7 January to 9 January after a need for additional validation through ground simulations was found. The satellites were orbiting at about 28,400 km/h and they were 11 km (6.8 mi) apart, just prior to the first docking attempt.
+
+
+=== Docking and undocking ===
+By 8 January, the two satellites had reduced their separation to 600 meters. To get the chaser satellite closer to the target, ISRO started a drift maneuver that moved it from 500 meters to 225 meters. However, the drift was greater than anticipated after the non-visibility period. The docking was thus was delayed for the second time. On 9 January, ISRO placed the chaser on a slow drift trajectory to bring it closer to the target. It was anticipated that the docking sequence would begin on 10 January, however this was subsequently delayed by several days. By 12 January, the SDX01 and SDX02 spacecraft were within 15 metres of one another. ISRO activated imaging sensors allowing the satellites to take pictures and videos of each other.
+On 13 January, an attempt was made by the chaser to approach within 15 meters and then 3 meters of the target. However, a delay in receiving signals from the proximity and docking sensors was observed during the inter-satellite distance reduction maneuver. For the SDX01 and SDX02 to correctly align throughout the docking process, these sensors were crucial. Because of the delay, an onboard safe mode was automatically activated to prevent any unintentional collision. This aborted the docking attempt and increased the inter-satellite distance between SDX01 and SDX02 to 8 km.
+On 16 January, a repeat of the docking attempt succeeded as the target captured the chaser for the first time.The Chaser spacecraft began to approach the Target, gradually lowering the separation between them to a distance of a few metres. For autonomous docking, the relative velocities of SDX01 and SDX02 were reduced to 0.036 km/h or 10 mm/s using retrorockets and a sensor suite. After docking was completed, the mission planned to establish and demonstrate the transfer of electrical power between the spacecraft. ISRO also successfully managed to control the two satellites as a single stacked entity after docking.
+On 13 March, ISRO successfully undocked and separated the SpaDeX satellites. The process began with an SDX02 extension, followed by the planned release of capture lever 3, the disengagement of the SDX02 capture lever, and the issuance of the de-capture command for both satellites. All of the capabilities needed for rendezvous, docking, and undocking operations in a circular orbit have by this point been successfully proven by ISRO. Both SDX01 and SDX02 subsequently orbited the Earth independently.
+ISRO planned to conduct the next series of experiments and another undocking/re-docking by 15 March 2025. The re-docking will take place automatically. Such experiments are only possible in a brief window of 15 days every two months. On 20 April 2025, ISRO successfully demonstrated the docking of SDX01 and SDX02 spacecraft for the second time. In contrast to the first docking attempt, which involved manually exercising an additional hold point at an inter satellite distance of 3 metres, the second docking was accomplished in full autonomous mode from an inter satellite distance of 15 metres till docking.
+
+
+=== Additional experiments ===
+On 28 March 2025, V. Narayanan verified that during the first docking process, the spacecraft had not finished transferring electrical power from one satellite to the other. The experiment was moved to the subsequent round because of a possible small misalignment of the power transmission ports in the first attempt. The SpaDeX satellites still have enough fuel to finish the experiment.
+The Rolling experiment, which involved one satellite circumnavigating the other and returning to its original position while remaining in line of sight, was completed by ISRO on 28 March 2025. Multiple software, sensors, positioning technology, ground station control over satellite maneuvering, etc. were all validated. The experiment will assist ISRO in comprehending the necessary steps to dock satellites from various orientations to a desired location. Additionally, it will assist ISRO in determining whether vertical docking is feasible,which was tested by another docking of the spacecraft.
+On 21 April 2025, the power transfer experiment from SDX02 to SDX01 and vice versa was completed successfully. In the experiment, one of the spacecraft's heating element was powered by the other satellite. Both SDX01 and SDX02 were operating at peak efficiency during the roughly 4-minute power transmission. The spacecraft were then again undocked to a 460-km circular orbit with a 45-degree inclination.
+On 3 May 2025, it was reported that ISRO has successfully completed a high-speed satellite rendezvous in space, demonstrating the expertise and readiness for orbital defense. At orbital speed of 28,800 kmph, SDX01 and SDX02 were guided into coordinated, high-speed contact. The satellites tested orbital control, real-time communication, and autonomous control systems as they gradually closed in on one another under controlled conditions, much like in aircraft combat training. The maneuvering accuracy needed in space warfare was emulated in the experiment. From an international standpoint, the test was carried out following remarks made by US Vice Chief of Space Operations Gen. Michael Guetlein at the 16th annual McAleese "Defense Programs" Conference in Arlington, regarding China's pursuit of a number of proximity operations in which space objects move in and out of and around one another in unison and under control.
+On 23 May 2025, ISRO declared that the primary mission goal of docking was achieved and the mission is in extended phase. Experiments with the secondary instruments will be conducted with the remaining 5 kg of fuel. ISRO also used both the spacecraft for communication tests with AWS ground terminals for the Gaganyaan programme.
+
+
+== Mission objectives ==
+According to ISRO, the SpaDeX mission had the following objectives:
+
+To demonstrate an autonomous rendezvous and docking using the V-bar approach.
+To verify electrical power transfer between two docked spacecraft.
+To execute a composite spacecraft control using the Attitude Control System of another spacecraft while both are in a docked configuration.
+To act as independent satellites after undocking, and to operate their payloads for a period of two years.
+To enhance ISRO's flight operational flexibility and also expand its mission capabilities.
+
+
+== Satellite description ==
+
+The designations SDX01 and SDX02 are assigned to the "Chaser" and "Target" satellites, respectively, though both host docking devices capable of active or passive function. Both spacecraft are built on the IMS class satellite bus. Additional sensor suite for both spacecraft include Laser Range Finder (LRF) and Corner Cube Retro Reflectors to work for a range of 6000 to 200 m for determining range. Two sets of Rendezvous Sensors are used in the range of 2000 to 250 m and from 250-10 m. They provide the relative position while LRF determines both relative position and velocity independently. A Proximity and Docking Sensor (PDS) provides relative position and velocity over a range of 30 m to 0.4 m. Both Spacecraft use Laser Diodes as targets for the RS & PDS sensor suits. A Video camera is used in the 20 to 0.5 m range to capture the video of the docking event. A Mechanism Entry Sensor is used from 8 cm to 4 cm to detect chaser entry into the target spacecraft during docking.The spacecraft also contain a NAVIC-based Satellite Positioning System, which provides Position, Navigation, and Timing)services to the satellite.They also carry VHF/UHF transceivers. Multiple test beds were used to calibrate and validate these sensors before accepting them for the mission..The Space Applications Centre developed a miniaturized high-resolution camera with photo and video capability that was carried aboard SDX01. SDX02 was equipped with a Multi-Spectral Payload (MMX) for vegetation and natural resource monitoring. In order to properly plan the Gaganyaan missions, SDX02 has a radiation detector that will collect data on radiation levels in space.
+The Bhartiya Docking System (BDS) was developed by ISRO based on the International Docking System Standard (IDSS) after unsuccessful attempts to import the docking technology from abroad. The docking mechanism is a low-impact docking system that is androgynous and incorporates a peripheral docking system.It also extends outwards from the spacecraft. In contrast to the 24 motors used in IDSS, the BDS only uses two. The docking port on SpaDeX is 450 mm in diameter, whereas the docking port at the Gaganyaan and Bharatiya Antariksh Station will be 800 mm.
+
+The dual-motor actuation design was designed to help ensure secure connections and accurate alignment at low speeds. The real-time alignment and navigation was supported by proximity sensors, laser rangefinders, and rendezvous cameras. During docking operations, an Inter-Satellite Communication Link (ISL) provided smooth data transmission, improving the system's dependability and autonomy. As soon as the satellites were under 5 km apart, they were able communicate via ISL to share orientation and location information.
+
+
+=== New process and technologies ===
+
+The SpaDeX mission will demonstrate certain new technologies and implements for ISRO. 
+
+Instead of being assembled and integrated at Vehicle Assembly and Launching Facility (VALF) and Mobile Service Tower (MST) respectively, the launch vehicle was assembled in a new PSLV Integration Facility (PIF) and transported to the launch pad to reduce the lead-in time between missions.
+A low-impact, androgynous peripheral docking system with an approach velocity of 10 mm/s was developed and employed.
+A trigger mechanism to capture the both satellites and securely hold them in place for docking operations.
+Power transfer technology, and built-in artificial intelligence to comprehend satellite conditions.
+Rendezvous and Docking Algorithms for the spacecraft was developed by the Rendezvous Simulation Laboratory to validate the algorithms through real-time simulation, the Docking Mechanism Performance Test for last stage of docking, and the Vertical Docking Experiment Lab to test the docking mechanisms under controlled settings.
+Laser rangefinder and corner cube retroreflectors for position vector and velocity in 6,000 to 200 m range. Rendezvous sensor for position vector in 2,000 to 250 m and 250 to 10 m range. Proximity and docking sensor for position vector and velocity in 30 m to 0.4 m range. An image sensor for 20 to 0.5 m range to capture the docking event. Mechanism entry sensor from 8 cm to 4 cm to detect SDX01 entry into SDX02. Accelerometers for velocity measurement, and star tracker for attitude determination.
+Integrated processor for Relative Orbit Determination and Propagation (RODP) with differential GNSS-based Satellite Positioning System (SPS) for Positioning, Navigation and Timing (PNT). VHF/UHF transceivers to transfer and synchronize position vector and velocity data by Inter-Satellite Communication Link.
+
+
+=== International collaboration ===
+The Italian company Leaf Space, which offers ground segment-as-a-service (GSaaS) solutions, partnered with ISRO to create communication linkages with the POEM-4 platform and the SpaDeX satellites. It made telemetry, command operations, and ongoing SpaDeX mission telemetry monitoring possible.
+
+
+== Challenges ==
+ISRO did not undertake a trial mission for the space docking experiment due to financial constraints. The two satellites and associated equipment were built by ISRO for ₹125 crore, while the launch vehicle cost an additional ₹250 crore. Before Launch, the rocket was forced to hold to avoid potentially close approach risk with other satellites.
+
+As per media reports, SpaDeX is having technical difficulties with the undocking procedure that was supposed to take place on 16 January 2024. V. Narayanan announced on 29 January that ISRO is reviewing the undocking procedure because the agency does not want to undock and abandon the satellites. With 60–70% propellant remaining and the project expense being fully utilized, more docking, undocking, and power transfer experiments will be conducted. V. Narayanan told Press Trust of India on 8 February 2025, that there are no issues. ISRO intends to take its time, studying, and organize additional experiments before trying the undocking procedure.
+
+
+== Future development ==
+During the SpaDeX mission's post-launch briefing on 30 December 2024, ISRO Chief S. Somanath declared that additional SpaDeX missions with greater size and complexity would be launched, showing larger docking systems, most likely for Gaganyaan and Bharatiya Antariksha Station.
+ISRO intends to launch SpaDeX-2 in 2025–2028, pending government approval. It is anticipated that it will take a further 18 months to finish the preparations after approval. The goal of SpaDeX-2 is to dock two satellites in an elliptical orbit rather than a circular one. The reason for this is that in a circular orbit, the satellites' trajectory and velocity stay constant, whereas in an elliptical orbit, they continuously change.
+ISRO also plans a SpaDeX-3 in the late 2020's. While SpaDeX-2 will demonstrate docking in an high-earth elliptical orbit, SpaDeX-3 would also demonstrate Sample transfer and remote robotic operations using scaled up hardware sets, paving the way for Bharatiya Antariksh Station and Chandrayaan-4.The two future projects of ISRO depend on the mission's success.
+
+
+== See also ==
+
+ETS-VII or KIKU-7, also known as Orihime/Hikoboshi, a Japanese mission in 1997 with similar objectives.
+Kosmos 186 and Kosmos 188, the first Soviet docking effort.
+Gemini 8, the first docking conducted in space.
+Shenzhou, Chinese docking mission.
+Jules Verne ATV, the first European in space docking.
+List of Indian satellites
+
+
+== References ==
