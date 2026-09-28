@@ -1,0 +1,51 @@
+# Benchmark question set for GRAIL.
+#
+# thematic: corpus-wide questions. Plain vector RAG struggles here because the answer
+#           is spread across many chunks - this is what global search is for.
+# factual:  specific lookups. A good vector baseline should do fine on these, which is
+#           exactly why they belong in the set: an honest benchmark shows where the
+#           graph does NOT help.
+
+thematic:
+  - What recurring themes show up across ISRO's mission failures?
+  - How has ISRO's approach to lunar exploration evolved from Chandrayaan-1 to Chandrayaan-3?
+  - What role has international collaboration played across ISRO's missions?
+  - How has ISRO's family of launch vehicles developed over time?
+  - What scientific objectives recur across ISRO's planetary missions?
+  - How does ISRO balance scientific missions against applications satellites?
+  - What patterns emerge in how ISRO controls mission cost?
+  - How has ISRO's human spaceflight programme developed?
+  - What themes connect ISRO's Earth observation programmes?
+  - How has ISRO's role in commercial launch services changed over time?
+  - What institutional relationships shape how ISRO operates?
+  - What technical challenges recur in ISRO's cryogenic engine development?
+  - How do ISRO's navigation and communication satellite programmes differ in purpose?
+  - What role have individual leaders played in shaping ISRO?
+  - How does ISRO's use of technology demonstrator missions show up across programmes?
+  - Why do ISRO missions frequently operate beyond their design life?
+  - How has ISRO's lander and rover technology changed across missions?
+  - What trends appear in ISRO's launch cadence and vehicle reliability?
+  - How do ISRO's solar and astronomy missions fit its broader science goals?
+  - What characterises ISRO's relationship with private industry?
+
+factual:
+  - Which launch vehicle carried Aditya-L1, and to what orbit was it sent?
+  - What instruments did the Pragyan rover carry?
+  - What caused the Chandrayaan-2 lander to fail?
+  - When did the Mars Orbiter Mission enter Mars orbit?
+  - What is the payload capacity of LVM3 to geostationary transfer orbit?
+  - Who was the chairman of ISRO during the Chandrayaan-3 mission?
+  - What is the purpose of the SpaDeX mission?
+  - Which spacecraft detected water molecules on the Moon?
+  - What kind of orbit does Aditya-L1 occupy?
+  - How many satellites make up the NavIC constellation?
+  - Which launch site is used for PSLV missions?
+  - What does AstroSat observe?
+  - Which rocket is intended to carry the Gaganyaan crew?
+  - What is NISAR, and which agencies built it?
+  - Where did Chandrayaan-3's Vikram lander touch down?
+  - What is the role of NewSpace India Limited?
+  - What instruments were carried by the Mars Orbiter Mission?
+  - When was the Indian Space Research Organisation founded?
+  - What is XPoSat designed to study?
+  - What is the payload capacity of the SSLV to low Earth orbit?
