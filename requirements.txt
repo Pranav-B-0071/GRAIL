@@ -1,5 +1,5 @@
 # GRAIL - pinned for reproducible deploys. Bump deliberately, not accidentally.
-graphrag==3.1.2
+graphrag==3.1.0   # 3.1.1+ pins litellm 1.92 which has no Windows wheel (needs Rust to build)
 streamlit>=1.40
 pandas>=2.0
 pyarrow>=15.0

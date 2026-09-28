@@ -74,6 +74,14 @@ def ensure_api_key() -> bool:
     Locally that comes from .env; on Streamlit Community Cloud it comes from st.secrets,
     so copy it across before any GraphRAG import touches the config.
     """
+    env_file = PROJECT_ROOT / ".env"
+    if env_file.exists():
+        for line in env_file.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, value = line.partition("=")
+            os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
     if os.environ.get("GRAPHRAG_API_KEY"):
         return True
     try:
