@@ -25,9 +25,10 @@ py -3.12 -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 
-# 2. API key
+# 2. API key — settings.yaml is set up for the Gemini free tier
 copy .env.example .env
-#    then edit .env and put your OpenAI key in GRAPHRAG_API_KEY
+#    then get a key at https://aistudio.google.com/apikey and put it in GRAPHRAG_API_KEY
+#    (to use OpenAI instead, see the header comment in settings.yaml)
 
 # 3. Corpus — 25 Wikipedia articles on ISRO missions, ~75k words
 python scripts/fetch_corpus.py
@@ -35,7 +36,7 @@ python scripts/fetch_corpus.py
 # 4. (Optional but recommended) adapt the extraction prompts to this domain
 graphrag prompt-tune --root . --domain "Indian space missions, launch vehicles and spacecraft"
 
-# 5. Build the index — this is the step that costs money and time
+# 5. Build the index — this is the slow step (see "What indexing costs" below)
 graphrag index --root .
 
 # 6. See what you built (and get the numbers for your resume bullet)
@@ -48,13 +49,24 @@ streamlit run app.py
 On macOS or Linux, replace steps 1–2 with `python3.12 -m venv .venv`,
 `source .venv/bin/activate`, and `cp .env.example .env`.
 
+`graphrag` is pinned to 3.1.0: 3.1.1+ requires `litellm==1.92.0`, which has no Windows wheel
+and fails to install without a Rust toolchain.
+
 ---
 
 ## What indexing costs
 
 Indexing makes one LLM call per chunk for entity extraction (two with the default gleaning
 setting), plus description summarisation and one call per community report. For a ~75k-word
-corpus at the default 1200-token chunk size, expect a few hundred LLM calls.
+corpus at the default 1200-token chunk size, expect a few hundred LLM calls for extraction
+and community reports, plus description summarisation for every entity and relationship that
+appears in more than one chunk — that step alone can run past a thousand calls.
+
+On the Gemini free tier this costs nothing, but `settings.yaml` caps the chat model at 10
+requests a minute to stay under the free rate limit, so a full index takes several hours and may
+cross the daily request quota. If it stops, re-run `graphrag index --root .` — it resumes from
+the cache. Gemini's 503 "high demand" responses and network drops are retried with backoff
+rather than dropping chunks.
 
 Two knobs if that is too slow or too expensive:
 
@@ -86,6 +98,9 @@ Thematic questions are judged on comprehensiveness, diversity and empowerment; f
 correctness and directness. Results are written to `eval/results/` as raw JSON and a Markdown
 summary table.
 
+The judge step calls the OpenAI API directly (`--judge-model`, default `gpt-4o-mini`), so it
+needs an OpenAI key in `GRAPHRAG_API_KEY` even when the index was built with Gemini.
+
 Factual questions are in the set on purpose. A vector baseline should do well on them, and a
 benchmark that only tested the cases where the graph wins wouldn't be worth running.
 
@@ -99,7 +114,7 @@ benchmark that only tested the cases where the graph wins wouldn't be worth runn
 3. In **Advanced settings**, choose Python 3.12.
 4. Under **Settings → Secrets**, add:
    ```toml
-   GRAPHRAG_API_KEY = "sk-..."
+   GRAPHRAG_API_KEY = "your-key"
    ```
 5. First build takes a few minutes — GraphRAG pulls in roughly a gigabyte of dependencies.
 

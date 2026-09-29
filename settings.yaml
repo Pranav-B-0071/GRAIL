@@ -1,16 +1,42 @@
 ### GRAIL - GraphRAG configuration
 ### Docs: https://microsoft.github.io/graphrag/config/yaml/
 
+### Currently on the Gemini free tier (key from aistudio.google.com/apikey).
+### To go back to OpenAI: restore the commented `openai` lines below, set vector_size to 1536,
+### raise concurrent_requests, drop the rate_limit blocks, and delete output/ and cache/ before re-indexing.
+
 completion_models:
   default_completion_model:
-    model_provider: openai
+    model_provider: gemini          # OpenAI: openai
     # Any chat model your key can reach that supports JSON-schema structured output.
-    # GraphRAG is tested most heavily against the GPT-4 family.
-    model: gpt-4o-mini
+    model: gemini-3.5-flash-lite    # OpenAI: gpt-4o-mini
     auth_method: api_key
     api_key: ${GRAPHRAG_API_KEY}
-    retry:
+    retry: &retry
       type: exponential_backoff
+      max_retries: 10
+      max_delay: 90
+      # GraphRAG's default list minus ServiceUnavailableError and APIConnectionError: Gemini answers 503 "high demand"
+      # when busy, and a brief network drop should not kill an hour-long run - both are worth waiting out.
+      exceptions_to_skip:
+        - BadRequestError
+        - UnsupportedParamsError
+        - ContextWindowExceededError
+        - ContentPolicyViolationError
+        - ImageFetchError
+        - InvalidRequestError
+        - AuthenticationError
+        - PermissionDeniedError
+        - NotFoundError
+        - UnprocessableEntityError
+        - APIError
+        - APIResponseValidationError
+        - BudgetExceededError
+    # Free tier allows only a handful of requests per minute - stay under it instead of eating 429s.
+    rate_limit:
+      type: sliding_window
+      period_in_seconds: 60
+      requests_per_period: 10
     metrics:
       # Writes one JSONL record per model call into metrics/ - eval/benchmark.py
       # reads these for real token and cost numbers instead of estimating.
@@ -21,14 +47,17 @@ completion_models:
 
 embedding_models:
   default_embedding_model:
-    model_provider: openai
-    # 1536 dimensions. If you switch to text-embedding-3-large (3072),
-    # you MUST change vector_store.vector_size below to match or LanceDB rejects the writes.
-    model: text-embedding-3-small
+    model_provider: gemini          # OpenAI: openai
+    # 3072 dimensions (OpenAI text-embedding-3-small is 1536).
+    # vector_store.vector_size below MUST match or LanceDB rejects the writes.
+    model: gemini-embedding-001     # OpenAI: text-embedding-3-small
     auth_method: api_key
     api_key: ${GRAPHRAG_API_KEY}
-    retry:
-      type: exponential_backoff
+    retry: *retry
+    rate_limit:
+      type: sliding_window
+      period_in_seconds: 60
+      requests_per_period: 60
     metrics:
       type: default
       store: memory
@@ -37,7 +66,7 @@ embedding_models:
 
 ### Concurrency ###
 # Lower this if you start seeing 429s during indexing.
-concurrent_requests: 8
+concurrent_requests: 2             # OpenAI: 8
 
 ### Document processing ###
 
@@ -75,7 +104,7 @@ cache:
 vector_store:
   type: lancedb
   db_uri: output/lancedb
-  vector_size: 1536
+  vector_size: 3072                # OpenAI text-embedding-3-small: 1536
 
 ### Workflow settings ###
 

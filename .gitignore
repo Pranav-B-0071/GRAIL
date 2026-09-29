@@ -19,3 +19,6 @@ output/lancedb/
 
 # Benchmark runs
 eval/results/
+
+# Local run logs
+index_run.log
