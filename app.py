@@ -285,7 +285,7 @@ def main() -> None:
 
     if not ensure_api_key():
         st.error(
-            "No API key found. Locally: put `GRAPHRAG_API_KEY=sk-...` in a `.env` file at the project root. "
+            "No API key found. Locally: put `GRAPHRAG_API_KEY=your-key` in a `.env` file at the project root. "
             "On Streamlit Community Cloud: add it under **Settings → Secrets**."
         )
         st.stop()

@@ -32,6 +32,12 @@ import pandas as pd
 import yaml
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+# The judge talks to an OpenAI-compatible chat endpoint. Gemini exposes one, so the same
+# free-tier key that built the index can grade the answers.
+JUDGE_BASE_URLS = {
+    "gemini": "https://generativelanguage.googleapis.com/v1beta/openai/",
+    "openai": None,
+}
 GRAPH_MODE_FOR = {"thematic": "global", "factual": "local"}
 BASELINE_MODE = "basic"
 CRITERIA = {
@@ -67,6 +73,14 @@ def load_dotenv(root: Path) -> None:
             continue
         key, _, value = line.partition("=")
         os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+
+
+def default_judge_model(root: Path, provider: str) -> str:
+    """Gemini: reuse the chat model from settings.yaml. OpenAI: gpt-4o-mini."""
+    if provider == "openai":
+        return "gpt-4o-mini"
+    settings = yaml.safe_load((root / "settings.yaml").read_text(encoding="utf-8"))
+    return settings["completion_models"]["default_completion_model"]["model"]
 
 
 def load_index(root: Path) -> dict[str, pd.DataFrame]:
@@ -283,7 +297,10 @@ def main() -> int:
     parser.add_argument("--modes", default="global,local,basic", help="comma-separated modes to run")
     parser.add_argument("--community-level", type=int, default=2)
     parser.add_argument("--response-type", default="Multiple Paragraphs")
-    parser.add_argument("--judge-model", default="gpt-4o-mini")
+    parser.add_argument("--judge-provider", choices=sorted(JUDGE_BASE_URLS), default="gemini",
+                        help="API the judge calls (key: JUDGE_API_KEY, falling back to GRAPHRAG_API_KEY)")
+    parser.add_argument("--judge-model", default=None,
+                        help="default: the chat model in settings.yaml (gemini) or gpt-4o-mini (openai)")
     parser.add_argument("--no-judge", action="store_true", help="skip the LLM-as-judge comparison")
     parser.add_argument("--dry-run", action="store_true", help="print the plan without calling any model")
     parser.add_argument("--seed", type=int, default=7, help="seed for A/B order randomisation")
@@ -292,6 +309,7 @@ def main() -> int:
     random.seed(args.seed)
     root = Path(args.root).resolve()
     load_dotenv(root)
+    judge_model = args.judge_model or default_judge_model(root, args.judge_provider)
 
     questions = yaml.safe_load((Path(__file__).parent / "questions.yaml").read_text(encoding="utf-8"))
     for kind in questions:
@@ -307,6 +325,8 @@ def main() -> int:
     print(f"Questions  : {n_questions} ({', '.join(f'{k}={len(v)}' for k, v in questions.items())})")
     print(f"Modes      : {', '.join(modes)}")
     print(f"Plan       : {n_searches} searches + {n_judge} judge calls")
+    if n_judge:
+        print(f"Judge      : {args.judge_provider} / {judge_model}")
     if args.dry_run:
         print("\nDry run - nothing was called.")
         return 0
@@ -346,7 +366,11 @@ def main() -> int:
         else:
             from openai import OpenAI
 
-            client = OpenAI(api_key=os.environ["GRAPHRAG_API_KEY"])
+            client = OpenAI(
+                api_key=os.environ.get("JUDGE_API_KEY") or os.environ["GRAPHRAG_API_KEY"],
+                base_url=JUDGE_BASE_URLS[args.judge_provider],
+                max_retries=8,  # free-tier 429s are expected; the client backs off and retries
+            )
             for kind, items in questions.items():
                 graph_mode = GRAPH_MODE_FOR[kind]
                 for i, question in enumerate(items, 1):
@@ -356,7 +380,7 @@ def main() -> int:
                         continue
                     print(f"[judge {kind} {i}/{len(items)}] {question[:58]}")
                     judgements.append(
-                        judge_pair(client, args.judge_model, question, kind, graph_answer, baseline_answer)
+                        judge_pair(client, judge_model, question, kind, graph_answer, baseline_answer)
                     )
 
     results_dir = root / "eval" / "results"

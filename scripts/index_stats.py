@@ -1,4 +1,4 @@
-"""Report what the index actually contains - and print the numbers for your resume bullet.
+"""Report what the index actually contains: corpus size, table counts, and indexing cost.
 
 Run after indexing:
 
@@ -83,13 +83,12 @@ def main() -> int:
     else:
         print("\nNo metrics recorded yet (metrics/ is empty).")
 
-    entities = counts.get("entities", 0)
-    relationships = counts.get("relationships", 0)
     print("\n" + "-" * 78)
-    print("Paste-ready numbers for the resume bullet:\n")
-    print(f'  "...a {n_articles}-article, ~{n_words // 1000}k-word corpus ... producing a knowledge graph')
-    print(f'   of {entities:,} entities and {relationships:,} relationships organised into')
-    print(f'   {counts.get("communities", 0):,} Leiden communities with LLM-written summaries."')
+    print(
+        f"Summary: {n_articles} articles (~{round(n_words / 1000)}k words) -> "
+        f"{counts.get('entities', 0):,} entities, {counts.get('relationships', 0):,} relationships, "
+        f"{counts.get('communities', 0):,} Leiden communities"
+    )
     print("-" * 78)
     return 0
 

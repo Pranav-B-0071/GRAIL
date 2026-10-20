@@ -12,10 +12,10 @@ __pycache__/
 cache/
 logs/
 metrics/
-output/lancedb/
 
-# Keep the index tables themselves - the deployed app needs them:
-# output/*.parquet is intentionally NOT ignored.
+# The index itself is intentionally NOT ignored - the deployed app loads it instead of
+# re-indexing: output/*.parquet (graph tables) and output/lancedb/ (embeddings used by
+# local and vector search).
 
 # Benchmark runs
 eval/results/

@@ -1,0 +1,7 @@
+* text=auto
+
+# Index artifacts - never line-ending convert or diff these
+*.parquet binary
+*.lance binary
+*.manifest binary
+*.txn binary

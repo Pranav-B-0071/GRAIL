@@ -30,7 +30,8 @@ copy .env.example .env
 #    then get a key at https://aistudio.google.com/apikey and put it in GRAPHRAG_API_KEY
 #    (to use OpenAI instead, see the header comment in settings.yaml)
 
-# 3. Corpus — 25 Wikipedia articles on ISRO missions, ~75k words
+# 3. Corpus — 25 Wikipedia articles on ISRO missions, ~71k words
+#    (already committed in input/; this only fetches anything missing)
 python scripts/fetch_corpus.py
 
 # 4. (Optional but recommended) adapt the extraction prompts to this domain
@@ -39,7 +40,7 @@ graphrag prompt-tune --root . --domain "Indian space missions, launch vehicles a
 # 5. Build the index — this is the slow step (see "What indexing costs" below)
 graphrag index --root .
 
-# 6. See what you built (and get the numbers for your resume bullet)
+# 6. Inspect the index: entity/relationship/community counts and indexing cost
 python scripts/index_stats.py
 
 # 7. Run the app
@@ -57,7 +58,7 @@ and fails to install without a Rust toolchain.
 ## What indexing costs
 
 Indexing makes one LLM call per chunk for entity extraction (two with the default gleaning
-setting), plus description summarisation and one call per community report. For a ~75k-word
+setting), plus description summarisation and one call per community report. For a ~71k-word
 corpus at the default 1200-token chunk size, expect a few hundred LLM calls for extraction
 and community reports, plus description summarisation for every entity and relationship that
 appears in more than one chunk — that step alone can run past a thousand calls.
@@ -71,13 +72,12 @@ rather than dropping chunks.
 Two knobs if that is too slow or too expensive:
 
 - `graphrag index --root . --method fast` swaps LLM entity extraction for NLP noun-phrase
-  extraction. Far fewer calls, noisier graph. Worth running both and comparing — that
-  comparison is a genuinely interesting result to write up.
+  extraction. Far fewer calls, noisier graph.
 - `concurrent_requests` in `settings.yaml` — lower it if you hit rate limits, raise it if
   your account has room.
 
 The JSON cache in `cache/` means a failed or interrupted run resumes instead of re-paying
-for every call. Don't delete it mid-project.
+for every call. Deleting it forces a full re-index.
 
 ---
 
@@ -98,8 +98,9 @@ Thematic questions are judged on comprehensiveness, diversity and empowerment; f
 correctness and directness. Results are written to `eval/results/` as raw JSON and a Markdown
 summary table.
 
-The judge step calls the OpenAI API directly (`--judge-model`, default `gpt-4o-mini`), so it
-needs an OpenAI key in `GRAPHRAG_API_KEY` even when the index was built with Gemini.
+The judge calls Gemini's OpenAI-compatible endpoint with the same key, using the chat model
+from `settings.yaml` by default. Pass `--judge-model` to grade with a different (ideally
+stronger) model, or `--judge-provider openai` with an OpenAI key in `JUDGE_API_KEY`.
 
 Factual questions are in the set on purpose. A vector baseline should do well on them, and a
 benchmark that only tested the cases where the graph wins wouldn't be worth running.
@@ -108,7 +109,8 @@ benchmark that only tested the cases where the graph wins wouldn't be worth runn
 
 ## Deploying to Streamlit Community Cloud
 
-1. Push this repo to GitHub **including `output/*.parquet`** — the deployed app loads the
+1. Push this repo to GitHub **including `output/`** — the parquet tables and the
+   `output/lancedb/` embeddings that local and vector search read. The deployed app loads the
    pre-built index rather than re-indexing on startup. `.gitignore` is already set up for this.
 2. On [share.streamlit.io](https://share.streamlit.io), point a new app at `app.py`.
 3. In **Advanced settings**, choose Python 3.12.
@@ -119,7 +121,7 @@ benchmark that only tested the cases where the graph wins wouldn't be worth runn
 5. First build takes a few minutes — GraphRAG pulls in roughly a gigabyte of dependencies.
 
 Apps sleep after 12 hours without traffic; the first visitor after that clicks a button to
-wake it. Worth mentioning wherever you share the link.
+wake it.
 
 ---
 
@@ -135,7 +137,7 @@ GRAIL/
 ├─ metrics/               One JSONL record per model call — where the cost numbers come from
 ├─ scripts/
 │  ├─ fetch_corpus.py     Downloads the Wikipedia corpus
-│  └─ index_stats.py      Index contents, indexing cost, resume-ready numbers
+│  └─ index_stats.py      Index contents and indexing cost
 └─ eval/
    ├─ questions.yaml      20 thematic + 20 factual questions
    └─ benchmark.py        Three-way comparison + LLM-as-judge
@@ -162,8 +164,9 @@ chunks ──► entity + relationship extraction (LLM) ──► graph
              └─ basic search    query ──► similar chunks ──► answer     (the baseline)
 ```
 
-## Credits
+## License and credits
 
+- Code in this repository is MIT licensed — see [LICENSE](LICENSE).
 - Corpus text from Wikipedia, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
   Each file in `input/` keeps a header naming its source article.
 - Indexing and retrieval by [Microsoft GraphRAG](https://github.com/microsoft/graphrag) (MIT).

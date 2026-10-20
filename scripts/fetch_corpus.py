@@ -1,7 +1,7 @@
 """Download the GRAIL corpus: ISRO mission articles from Wikipedia, as plain text.
 
 Wikipedia text is CC BY-SA 4.0. Each file keeps a header crediting the source article,
-and the README credits Wikipedia - keep both if you publish this.
+and the README credits Wikipedia.
 
 Usage
 -----
@@ -21,7 +21,7 @@ from pathlib import Path
 import requests
 
 API = "https://en.wikipedia.org/w/api.php"
-USER_AGENT = "GRAIL-corpus-builder/1.0 (educational GraphRAG project; contact: your-email@example.com)"
+USER_AGENT = "GRAIL-corpus-builder/1.0 (educational GraphRAG project; https://github.com/Pranav-B-0071/GRAIL)"
 
 # 25 articles: missions, launch vehicles, satellite programmes, institutions, people.
 # Wide enough that "what patterns show up across ISRO's failures?" has a real answer,
@@ -54,7 +54,7 @@ ARTICLES = [
     "NewSpace India Limited",
 ]
 
-TARGET_WORDS = 75_000  # what the README and resume bullet quote
+TARGET_WORDS = 71_000  # corpus size the README quotes
 
 
 def slugify(title: str) -> str:
@@ -132,7 +132,7 @@ def report(input_dir: Path) -> None:
         direction = "more" if drift > 0 else "fewer"
         print(
             f"Note: that is {abs(drift):.0%} {direction} than the ~{TARGET_WORDS:,} words this project "
-            f"was scoped around. Add or drop articles in ARTICLES, and use YOUR number everywhere."
+            f"was scoped around - Wikipedia articles change over time. Add or drop articles in ARTICLES."
         )
 
 
